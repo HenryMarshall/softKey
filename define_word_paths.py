@@ -20,6 +20,8 @@ with open('character_positions.pickle', 'rb') as handle:
 
 f = open(sys.argv[1])
 corpus = f.read().split('\n')
+# reordering by word length is helpful when comparing for ambiguity
+corpus.sort(key=len)
 
 
 # generate results
@@ -66,6 +68,8 @@ for layout_name, layout in character_positions.iteritems():
                 })
                 results[layout_name][word].append(step)
 
+
+print results
 
 with open('word_path_defs.pickle', 'wb') as handle:
     pickle.dump(results, handle)
