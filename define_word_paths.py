@@ -71,5 +71,7 @@ for layout_name, layout in character_positions.iteritems():
 
 print results
 
-with open('word_path_defs.pickle', 'wb') as handle:
-    pickle.dump(results, handle)
+for arg in sys.argv:
+    if arg == "-s":
+        with open('word_path_defs.pickle', 'wb') as handle:
+            pickle.dump(results, handle)
