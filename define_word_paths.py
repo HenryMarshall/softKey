@@ -8,6 +8,7 @@ import sys
 ##### TO DO #####
 # accept corpus in non-list format
 # remove duplicate words from corpus
+# error handling for capitals, non-included chars
 
 
 # load character positions
@@ -33,18 +34,18 @@ def split_bigrams(word):
 
 results = {}
 
-for word in corpus:
-    word = word.lower()
+for layout_name, layout in character_positions.iteritems():
+    
+    results[layout_name] = {}
 
-    # one character words don't have bigrams
-    if len(word) > 1:
+    for word in corpus:
+        word = word.lower()
 
-        word_bigrams = split_bigrams(word)
-        results[word] = {}
+        # one character words don't have bigrams
+        if len(word) > 1:
 
-        for layout_name, layout in character_positions.iteritems():
-
-            results[word][layout_name] = []
+            word_bigrams = split_bigrams(word)
+            results[layout_name][word] = []
 
             for bigram in word_bigrams:
 
@@ -55,7 +56,7 @@ for word in corpus:
                 }
 
                 direction = math.degrees(math.atan2(step['dy'], step['dx']))
-                # atan2 returns values from 1rad to -1 rad
+                # atan2 returns values from +1 to -1 rad
                 if direction < 0:
                     direction = 360 + direction
 
@@ -63,7 +64,8 @@ for word in corpus:
                     'direction': direction,
                     'magnitude': (step['dx'] ** 2 + step['dy'] ** 2) ** 0.5
                 })
-                results[word][layout_name].append(step)
+                results[layout_name][word].append(step)
+
 
 with open('word_path_defs.pickle', 'wb') as handle:
     pickle.dump(results, handle)
