@@ -68,10 +68,10 @@ for layout_name, layout in character_positions.iteritems():
                 })
                 results[layout_name][word].append(step)
 
-
-print results
-
 for arg in sys.argv:
     if arg == "-s":
         with open('word_path_defs.pickle', 'wb') as handle:
             pickle.dump(results, handle)
+        break
+else:
+    print results
