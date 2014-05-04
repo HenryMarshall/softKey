@@ -1,6 +1,8 @@
 *.pickle
 *.sublime-project
 *.sublime-workspace
+*.pyc
+
 ideas.txt
 
 results/
