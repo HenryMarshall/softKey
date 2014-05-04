@@ -49,23 +49,22 @@ for layout_name, layout in paths.iteritems():
     layout_results = defaultdict(int)
 
     print "============================"
+    print "on the %s layout" % layout_name
 
     for word, word_bigrams in layout.iteritems():
         for match, match_bigrams in match_layout.iteritems():
             if len(word_bigrams) == len(match_bigrams) and word != match:
-                # print word, match
                 pair_value = calc_pair_value(word_bigrams, match_bigrams)
+                pair_value = round(pair_value,2)
+                layout_results[pair_value] += 1
 
-                layout_results[round(pair_value,2)] += 1
-
-                # if pair_value == 0:
-                #     layout_results[0] += 1
-                # elif pair_value > 0:
-                #     layout_results[1] += 1
-
+                PAIR_THRESHOLD = 0.8
+                if pair_value >= PAIR_THRESHOLD:
+                    print pair_value, ":", word, match
         # once something has been compared with everything remove it
         match_layout.pop(word, None)
 
-    print "on the %s layout" % layout_name
+    # print "on the %s layout" % layout_name
+    print "=============="
     for pair_value in sorted(layout_results):
-        print "%s: %s" % (pair_value, layout_results[pair_value])
+        print "  %s: %s" % (pair_value, layout_results[pair_value])

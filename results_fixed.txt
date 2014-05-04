@@ -1,594 +1,5163 @@
-on the opti layout
-   all end
-   all add
-   go if
-   go no
-   to we
-   nor leg
-   die art
-   try any
-   run lay
-   run day
-   even time
-   lead note
-   new law
-   full fund
-   hall call
-   free find
-   aid win
-   few tax
-   door deal
-   door dead
-   join sure
-   of do
-   of is
-   of at
-   end add
-   hot too
-   plant plane
-   lay day
-   date late
-   food feed
-   now low
-   bank save
-   truth mouth
-   hill kill
-   reason season
-   care case
-   rule role
-   one old
-   white which
-   sell fund
-   who yes
-   why dog
-   do is
-   do at
-   there these
-   we as
-   last dark
-   poem poet
-   is at
-   in oh
-   if no
-   yet you
-   real read
-   deal dead
-   be oh
-   lot not
-   an he
-==============
-on the fitaly layout
-   four very
-   go do
-   go it
-   go or
-   go up
-   to he
-   to no
-   nor too
-   item firm
-   run lot
-   what when
-   ago hit
-   win yes
-   unit each
-   use get
-   on by
-   so if
-   so at
-   then that
-   mean read
-   out not
-   god dog
-   hill will
-   she per
-   say oil
-   say pay
-   pay oil
-   do it
-   do or
-   do up
-   bar act
-   see off
-   job day
-   will kill
-   it or
-   it up
-   if at
-   no he
-   wall loss
-   right night
-   or up
-==============
-on the dvorak1H layout
-   child build
-   four rate
-   mile rise
-   go do
-   father rather
-   to do
-   to we
-   nor try
-   die yes
-   ten son
-   lead seek
-   new now
-   new not
-   ever over
-   let set
-   aid end
-   boy you
-   kid bar
-   ago age
-   win buy
-   use but
-   from fear
-   few man
-   few low
-   few lot
-   tell will
-   room they
-   room hear
-   of it
-   way top
-   six job
-   may say
-   stop away
-   less sell
-   man low
-   man lot
-   so by
-   so he
-   soon then
-   might right
-   food foot
-   they hear
-   house horse
-   year bear
-   god dog
-   view test
-   feed read
-   that head
-   bed bad
-   bed yet
-   bed for
-   as up
-   in or
-   yet for
-   right fight
-   by he
-   oh an
-   or at
-   down town
-==============
-on the dvorak layout
-   father center
-   send very
-   send rest
-   to no
-   those these
-   far gas
-   far for
-   rise line
-   rise rule
-   word hold
-   word hard
-   word back
-   nor car
-   nor can
-   nor man
-   nor son
-   nor war
-   nor not
-   nor lot
-   level never
-   level cover
-   list cent
-   gun get
-   gun yet
-   gun cut
-   prevent present
-   ten how
-   ten hot
-   rate none
-   rate love
-   rate late
-   rate care
-   rate note
-   rate save
-   cost hand
-   cost rest
-   cost test
-   run god
-   run get
-   run cut
-   even ever
-   even over
-   lead read
-   lead road
-   near real
-   new tax
-   new how
-   new now
-   ever over
-   never water
-   never hotel
-   never cover
-   here date
-   here help
-   hall call
-   hall wall
-   let now
-   let set
-   let low
-   let not
-   let lot
-   aid add
-   great clear
-   love none
-   love late
-   love note
-   love save
-   love lose
-   ago age
-   win bed
-   win but
-   use one
-   from grow
-   call loss
-   more bank
-   on or
-   on an
-   on at
-   glass class
-   hold work
-   hold cold
-   hold hard
-   hold mark
-   hold dark
-   must best
-   must both
-   must wish
-   none care
-   none have
-   none note
-   none lose
-   none role
-   room seem
-   this thus
-   car can
-   car gas
-   car son
-   work mark
-   work dark
-   work back
-   can gas
-   can son
-   control central
-   way may
-   sit red
-   how hot
-   may day
-   after often
-   less sell
-   less loss
-   lay say
-   date help
-   date have
-   date very
-   law son
-   law low
-   law lot
-   man bar
-   man war
-   light right
-   so no
-   enter other
-   talk care
-   talk walk
-   talk mark
-   same name
-   same some
-   cold hard
-   cold dark
-   cold face
-   late save
-   then thus
-   good food
-   food feed
-   half hand
-   foot feel
-   now set
-   now son
-   now low
-   now not
-   now lot
-   name some
-   mean bear
-   mean wear
-   mean boat
-   year fear
-   god red
-   god get
-   god cut
-   farm form
-   pool feel
-   state story
-   story stand
-   reason season
-   care case
-   care lose
-   care role
-   but bed
-   too see
-   listen center
-   that than
-   hotel cover
-   part form
-   matter manner
-   mind wish
-   head dead
-   have case
-   sell loss
-   note very
-   take make
-   reach leach
-   most west
-   cause raise
-   sale lose
-   son low
-   son war
-   son not
-   son lot
-   factor corner
-   do he
-   get cut
-   there these
-   bear boat
-   nearly really
-   set low
-   set not
-   set lot
-   art arm
-   best both
-   case lose
-   case role
-   wear boat
-   come game
-   come home
-   both west
-   last land
-   walk mark
-   cent rest
-   mark dark
-   mark back
-   as an
-   air oil
-   is in
-   is oh
-   it in
-   in oh
-   hand rest
-   hand test
-   rest test
-   day dog
-   other until
-   save lose
-   read road
-   game home
-   lose role
-   deal hear
-   market worker
-   or an
-   or at
-   low not
-   low lot
-   lot not
-   an at
-   peace field
-==============
+============================
 on the qwerty layout
-   forget former
-   go at
-   to up
-   nor not
-   die god
-   die for
-   near hear
-   body most
-   let per
-   aid six
-   aid dog
-   boy hot
-   boy cut
-   put out
-   more view
-   door food
-   door foot
-   give five
-   of is
-   of if
-   sit air
-   how god
-   hot hit
-   lay pay
-   so do
-   help bank
-   fix god
-   good food
-   good hope
-   half hair
-   name hang
-   drop sell
-   side wide
-   god for
-   hill bill
-   she age
-   but buy
-   top too
-   say day
-   sure fire
-   most boat
-   fear bear
-   we as
-   job big
-   last lady
-   firm form
-   gas yet
-   is or
-   if oh
-   rest test
-   game hang
-   eye you
+0.81 : gaskets baskets
+0.83 : choppinesses dopinesses
+1.0 : stagiest staggiest
+0.85 : malting halting
+1.0 : readds reads
+1.0 : topography typography
+0.85 : fluorite fluorid
+1.0 : stoppled stippled
+1.0 : stopples stipples
+0.81 : goiters touters
+1.0 : mouflon moufflon
+1.0 : fit goy
+0.81 : fit wye
+0.81 : fit wyte
+0.81 : fit toy
+0.83 : fix god
+1.0 : dattos datos
+0.81 : fib toom
+0.81 : fib tom
+0.81 : fib rib
+0.81 : fig rig
+0.85 : fid fie
+0.85 : fid gor
+0.85 : fid fire
+0.81 : fid rid
+1.0 : fie gor
+0.81 : fie rite
+0.81 : fie tour
+0.81 : fie tor
+1.0 : fie fire
+0.81 : fin ruin
+0.81 : fin rin
+1.0 : makable maskable
+1.0 : selfs sels
+0.87 : selfs drupe
+0.87 : selfs serow
+1.0 : feldspar felspar
+1.0 : looted looed
+1.0 : enthrall enthral
+1.0 : enthrals enthralls
+1.0 : tranship transship
+1.0 : lots louts
+0.81 : irk otto
+0.81 : irk gag
+1.0 : irk gab
+0.81 : irk tab
+1.0 : fruits frits
+1.0 : escalloping escaloping
+1.0 : fro dei
+1.0 : fry kip
+0.81 : whamming shamming
+0.9 : spit wept
+1.0 : spit spot
+1.0 : kohl draff
+1.0 : endue endure
+1.0 : haj hajj
+1.0 : haj hadj
+0.85 : haj keto
+0.85 : ham hash
+0.85 : ham yam
+0.85 : ham hah
+0.85 : had keet
+0.85 : had mad
+0.85 : hag mag
+1.0 : hag potto
+0.81 : hag hat
+0.85 : hay hash
+0.85 : hay yay
+0.85 : hay may
+0.85 : hay hah
+1.0 : has putty
+0.85 : has mass
+0.85 : has mas
+1.0 : has pity
+1.0 : has potty
+1.0 : has ort
+0.85 : haw oft
+0.85 : haw yaw
+0.85 : haw use
+0.85 : haw maw
+0.83 : cogs dogs
+1.0 : gallivants galivants
+0.85 : mackle hackle
+1.0 : starring staring
+1.0 : starring starting
+1.0 : marshall marshal
+1.0 : marshals marshalls
+1.0 : spurting sporing
+1.0 : spurting spirting
+1.0 : spurting sporting
+1.0 : spurting spring
+1.0 : spurting spiring
+1.0 : spurting spurring
+0.83 : dowsed chowsed
+1.0 : eyres eyes
+1.0 : morning mourning
+1.0 : sandaled sandalled
+1.0 : saltie saltire
+0.8 : foyers voters
+0.85 : foyers rioters
+0.85 : foyers rooters
+0.83 : corps dorps
+1.0 : puttered pottered
+1.0 : putterer potterer
+1.0 : baller baler
+0.81 : balled galled
+1.0 : balled baled
+0.83 : cockers dockers
+0.81 : gloomy bloomy
+0.81 : glooms blooms
+0.85 : pelf khans
+0.87 : pelf pretor
+1.0 : chopping cooping
+0.83 : chopping doping
+1.0 : chopping coping
+1.0 : chopping copping
+0.81 : bagging gagging
+1.0 : bagging badging
+0.81 : bagging gaging
+0.81 : garring barring
+0.81 : garring tarring
+0.81 : garring taring
+0.81 : garring baring
+0.81 : garring tarting
+0.85 : fakers requirers
+1.0 : fakers fakeers
+0.85 : fakers requiters
+0.85 : unlash unlay
+1.0 : pints points
+1.0 : vigour vigor
+1.0 : sculped sculpted
+0.81 : etude dude
+1.0 : byte byre
+1.0 : byte bye
+1.0 : byte nit
+0.89 : wrong song
+0.8 : tableaux tableaus
+0.85 : mayed hayed
+1.0 : agger ager
+1.0 : potmen pitmen
+1.0 : lacquering lacqueying
+1.0 : arbours arbors
+0.81 : bannets gannets
+0.81 : fir tout
+1.0 : fir got
+0.81 : fir toot
+0.81 : fir toit
+1.0 : fir gout
+0.81 : fir aga
+1.0 : fir dure
+0.81 : fir dud
+1.0 : fir due
+0.81 : fir tot
+0.81 : toadyish toadyism
+0.81 : otto jeu
+0.81 : otto gat
+1.0 : otto gag
+0.81 : otto gab
+0.81 : otto bag
+0.81 : otto tag
+0.89 : aitch quitch
+1.0 : teepee tepee
+0.83 : comes domes
+1.0 : vims bond
+0.85 : whacking smacking
+1.0 : curveted curvetted
+1.0 : overtasking overtaking
+1.0 : arrow stipe
+1.0 : arrow stope
+1.0 : arrow stupe
+1.0 : ryots rots
+1.0 : ryots riots
+1.0 : ryots roots
+1.0 : ryots routs
+1.0 : chomped compted
+1.0 : chomped comped
+1.0 : dirty suet
+0.81 : yogh ruer
+0.9 : oaths laths
+0.89 : feria grow
+0.81 : gonging tonging
+0.87 : leis prod
+0.85 : hash mash
+1.0 : hash hah
+0.85 : hash yah
+0.85 : hast mast
+0.8 : periodic periodid
+1.0 : mort bier
+1.0 : mort biter
+1.0 : morn mourn
+1.0 : mora moira
+0.81 : glowers blowers
+1.0 : more moue
+1.0 : more mote
+0.87 : more mod
+0.87 : more bis
+1.0 : grope gripe
+1.0 : pirana purana
+0.83 : courser dorser
+1.0 : courses corses
+1.0 : scoops scops
+0.85 : masted hasted
+1.0 : fruit frit
+1.0 : fruit zags
+1.0 : odors odours
+0.83 : coff doff
+0.87 : singlet winglet
+1.0 : speer spier
+0.9 : speer wiper
+1.0 : subtotalled subtotaled
+0.81 : shipworm whipworm
+0.83 : dozes cozes
+1.0 : pertest pretest
+1.0 : spinnery spinney
+1.0 : eery weet
+1.0 : cupper cuppier
+0.81 : tasting gasting
+0.81 : gases basses
+0.81 : gases bases
+0.81 : gases tasses
+1.0 : gases gasses
+0.89 : bios mope
+1.0 : kasha petite
+1.0 : fluoroscopies fluoroscopes
+0.81 : toggle goggle
+0.81 : glows blows
+1.0 : tempter temper
+1.0 : diallings dialings
+0.85 : makes hakes
+1.0 : maker masker
+0.81 : rive five
+0.85 : foamers roamers
+0.87 : japes napes
+1.0 : benefitting benefiting
+1.0 : leadless leakless
+1.0 : leadless leafless
+1.0 : yegg pull
+0.8 : vocalized focalized
+1.0 : acerose acetose
+0.81 : gallons talons
+0.81 : gallons ballons
+1.0 : subtotaling subtotalling
+0.81 : gays bays
+0.87 : sienites wienies
+1.0 : vrouws vrows
+0.81 : whammies shammies
+1.0 : overrate overate
+1.0 : piranas puranas
+1.0 : trying truing
+0.81 : tape gape
+1.0 : wring wing
+0.87 : wring sing
+0.85 : ire id
+0.85 : ire ma
+0.85 : ire of
+1.0 : ire or
+0.85 : ire us
+1.0 : ire put
+1.0 : ire our
+1.0 : ire ha
+1.0 : ire pit
+1.0 : ire pot
+0.85 : ire ya
+0.85 : marts harts
+1.0 : campier camper
+1.0 : genetic generic
+0.85 : off putt
+1.0 : oft yaw
+1.0 : oft use
+1.0 : kvass kvas
+1.0 : pontons pontoons
+1.0 : testoons testons
+0.8 : crux crus
+0.81 : pietism perish
+1.0 : chocked cocked
+0.83 : chocked docked
+1.0 : matin mattin
+0.89 : aits quits
+1.0 : proles pyrroles
+0.83 : cooping doping
+1.0 : cooping coping
+1.0 : cooping copping
+1.0 : peters petters
+0.81 : garbs barbs
+0.8 : divert civet
+1.0 : saviour savior
+1.0 : caroches carroches
+0.87 : outsole outsold
+1.0 : humoring humouring
+1.0 : clamoring clamouring
+1.0 : coopers copers
+1.0 : coopers choppers
+1.0 : coopers copters
+0.83 : coopers dopers
+1.0 : coopers coppers
+1.0 : coopers copiers
+0.83 : coopery dopey
+1.0 : coopery coppery
+0.85 : mate hate
+1.0 : porns pirns
+1.0 : sodomites sodomies
+1.0 : crupper cropper
+1.0 : totaled totalled
+1.0 : rationed ratooned
+1.0 : souths soths
+1.0 : dogy sift
+1.0 : petaled petalled
+0.87 : guild guile
+1.0 : cadgy cagy
+1.0 : cadge cage
+1.0 : alodia allodia
+0.81 : blazers glazers
+0.85 : mallows hallows
+0.81 : tone gone
+0.81 : tong gong
+1.0 : tons toons
+1.0 : vavassor vavasor
+1.0 : vavassor vavasour
+1.0 : armours armors
+0.85 : hap yap
+0.85 : hap map
+1.0 : armoury armory
+1.0 : gnu ace
+0.81 : ducting eructing
+1.0 : potion puton
+1.0 : potion piton
+0.85 : fuse chaw
+0.81 : tabling gabling
+0.9 : wops alfa
+0.9 : wops alga
+0.9 : wops ala
+0.81 : wops spew
+1.0 : outserts outsets
+1.0 : pourers pouters
+1.0 : cirrus citrus
+0.85 : mazer hazer
+1.0 : caliper calliper
+0.85 : mazed hazed
+1.0 : calipee callipee
+1.0 : tenour tenor
+1.0 : dalles dales
+0.85 : hanking yanking
+1.0 : antres antes
+1.0 : peeries perries
+1.0 : alant aslant
+1.0 : alane alkane
+1.0 : corrodies corodies
+1.0 : gum hin
+1.0 : alfa alga
+1.0 : alfa ala
+0.9 : alfa spew
+1.0 : streeking steeking
+0.89 : soke woke
+0.8 : chic chid
+1.0 : charring charing
+1.0 : charring charting
+1.0 : yeas pugh
+0.81 : gaffs baffs
+1.0 : gaffs poyou
+1.0 : dripper dropper
+1.0 : dripper drippier
+1.0 : raper rapier
+1.0 : thegns thens
+1.0 : snorting snoring
+1.0 : scaring scarting
+1.0 : scaring scarring
+0.83 : dowses chowses
+1.0 : armouries armories
+0.81 : baits gaits
+0.83 : colours dolors
+0.83 : colours dolours
+1.0 : colours colors
+0.81 : basifies gasifies
+1.0 : dues dures
+0.85 : yammering hammering
+1.0 : pester prester
+1.0 : dottrels dottels
+0.83 : codder dodder
+1.0 : charkas charkhas
+0.81 : euros duros
+1.0 : dits sura
+1.0 : dits sutra
+0.85 : dite aha
+1.0 : dite die
+1.0 : dite four
+1.0 : dite for
+1.0 : dite dire
+0.8 : dite cite
+0.85 : dite did
+0.85 : dite agha
+1.0 : dita foys
+0.85 : hangers mangers
+0.85 : overbite overbid
+1.0 : pickeer picker
+0.83 : colly dolly
+1.0 : poop sass
+1.0 : poop pop
+1.0 : poop ewe
+1.0 : pool reed
+1.0 : cored coyed
+1.0 : cored coed
+1.0 : cored coted
+1.0 : cored chored
+0.83 : cored doted
+0.83 : corer doter
+0.83 : corer doer
+1.0 : corer coyer
+0.83 : cores dotes
+0.83 : cores does
+1.0 : cores cotes
+1.0 : cores chores
+1.0 : streets stets
+1.0 : cues cures
+1.0 : cues cutes
+1.0 : cued cured
+0.85 : marring haring
+1.0 : marring marting
+1.0 : peised poetised
+1.0 : peises poetises
+1.0 : sheiks sheikhs
+1.0 : sherberts sherbets
+1.0 : shrimpier shrimper
+1.0 : purring porting
+1.0 : purring prying
+1.0 : purring poring
+1.0 : abators abattoirs
+1.0 : mites mires
+0.85 : maulers haulers
+0.85 : mazinesses hazinesses
+1.0 : beadlike beaklike
+1.0 : mooed mooted
+1.0 : mooed moored
+1.0 : yows upped
+1.0 : faggoting fagoting
+0.81 : arks store
+1.0 : competing compering
+1.0 : stivers stuivers
+0.81 : shinnies whinnies
+1.0 : rancors rancours
+1.0 : honour honor
+0.81 : wheals sheals
+0.81 : shinier whinier
+1.0 : berrettas berettas
+0.85 : furrow furls
+1.0 : piassabas piasabas
+1.0 : coypu coypou
+1.0 : pipped piped
+1.0 : covets coverts
+0.85 : hazier mazier
+1.0 : clamours clamors
+0.81 : blowflies glowflies
+1.0 : galiots galliots
+0.83 : conning donning
+1.0 : casking caking
+1.0 : meet met
+0.81 : sheeters whetters
+1.0 : scoop scop
+1.0 : pitheads potheads
+1.0 : bio mop
+0.9 : oast last
+1.0 : galiot galliot
+0.81 : bloat gloat
+0.81 : rilled filled
+0.81 : rillet fillet
+0.81 : bladed gladded
+0.9 : bladed goaded
+0.81 : blades glades
+1.0 : isotypes isotopes
+1.0 : isotypes isotopies
+1.0 : tyre tye
+1.0 : tyre uit
+1.0 : dialling dialing
+1.0 : keg mac
+0.85 : kef pith
+0.85 : kea ors
+0.85 : kea ours
+1.0 : kep mask
+1.0 : kep keep
+1.0 : baryes barytes
+1.0 : forestal forestall
+0.81 : goring touring
+1.0 : colouring coloring
+0.81 : rife fife
+1.0 : pussleys pusleys
+0.81 : gaffed baffed
+1.0 : rots riots
+1.0 : rots roots
+1.0 : rots routs
+0.87 : rote rood
+0.87 : rote rod
+1.0 : rote roue
+1.0 : rote roe
+0.85 : rote foe
+0.85 : rote fore
+0.81 : glare blare
+1.0 : polytene polyene
+0.85 : hammals mammals
+1.0 : lagger lager
+1.0 : lagger laager
+0.81 : gait bait
+1.0 : writher wither
+1.0 : writhes withes
+0.81 : gain tain
+0.87 : wince since
+0.85 : haring marting
+0.81 : winch windy
+0.85 : foil roil
+0.81 : swab swag
+0.85 : swam swash
+0.87 : sines wines
+1.0 : sines singes
+0.81 : swat swag
+0.89 : sorry quiet
+0.89 : sorry worry
+0.85 : sway swash
+1.0 : cadging caging
+1.0 : peached preached
+0.85 : fyke gulf
+0.85 : room dib
+1.0 : trots tryouts
+1.0 : trots trouts
+0.83 : rood roc
+1.0 : rood rod
+0.87 : rood roue
+0.87 : rood roe
+0.85 : shaw toft
+0.87 : widdles sidles
+1.0 : crew mut
+1.0 : shad tory
+0.81 : shad gory
+0.81 : glazes blazes
+0.81 : glazer blazer
+0.81 : glazed blazed
+0.85 : eyas titer
+0.85 : eyas tier
+0.85 : eyas uppity
+0.85 : sham shah
+0.85 : sham toro
+0.81 : sham wham
+0.89 : aids quids
+1.0 : nerts netts
+1.0 : nerts nets
+1.0 : underrate underate
+0.8 : diurons citrons
+1.0 : succors succours
+0.85 : harrows marrows
+0.85 : harrows yarrows
+0.85 : halenesses malenesses
+0.89 : sorts worts
+1.0 : pallets palets
+0.81 : motte biffs
+0.81 : motto birk
+1.0 : isotopes isotopies
+1.0 : asks wrote
+1.0 : asks wore
+0.87 : asks wood
+1.0 : asks woe
+0.89 : asks sore
+0.81 : toadlike goadlike
+1.0 : craaled cradled
+1.0 : sewar drest
+0.81 : fighters righters
+0.85 : fake requite
+0.85 : fake require
+0.85 : dingoes eringoes
+0.87 : dows riped
+0.87 : dows roped
+0.83 : dows cows
+0.83 : dows chows
+1.0 : outrivaled outrivalled
+0.8 : priedieus priedieux
+1.0 : whiskey whiskery
+1.0 : greeing greying
+0.85 : turgid turgite
+1.0 : instals installs
+0.85 : box bos
+0.85 : box via
+1.0 : boy cur
+0.89 : bos bow
+1.0 : bos via
+0.89 : bow via
+0.87 : bod view
+0.87 : bod bore
+1.0 : bod vis
+0.81 : bog cute
+0.81 : bog cue
+1.0 : bog cud
+0.81 : bog bout
+0.81 : bog bot
+0.81 : bog cure
+0.87 : ripcord doxies
+0.8 : fuck fuci
+0.81 : baboons gaboons
+0.81 : krater irater
+0.87 : ajar wrist
+0.87 : ajar wist
+1.0 : outpitying outputting
+1.0 : biassing biasing
+1.0 : fleeing fleying
+1.0 : meeters meters
+1.0 : fagging fadging
+1.0 : combatting combating
+0.85 : hailer mailer
+0.85 : hailed mailed
+1.0 : gel can
+1.0 : vita boys
+0.89 : wonder sonder
+1.0 : capuches capouches
+1.0 : streaming steaming
+0.81 : tout got
+1.0 : tout toot
+1.0 : tout toit
+0.81 : tout gout
+1.0 : tout aga
+0.81 : tout dure
+0.81 : tout due
+1.0 : tout tot
+0.81 : tout tog
+1.0 : quatre quate
+1.0 : potterers putterers
+1.0 : paring parring
+1.0 : paring parting
+1.0 : cotton coition
+1.0 : flavor flavour
+1.0 : gaddis gadis
+0.83 : dock chock
+0.83 : dock cock
+0.85 : halid halite
+1.0 : teff pill
+1.0 : toners tongers
+0.81 : toners goners
+1.0 : west weest
+1.0 : shuting shutting
+0.85 : requirers fakeers
+1.0 : requirers requiters
+0.81 : whippers shippers
+1.0 : lues lutes
+1.0 : lues lures
+1.0 : requirer requiter
+0.89 : requirer fairer
+0.85 : requirer fakeer
+0.85 : requirer faker
+0.89 : burrow burros
+0.85 : burrow burls
+0.9 : oases lases
+0.9 : oases lasses
+1.0 : motel morel
+0.83 : cogged dogged
+1.0 : puffs pouffs
+0.81 : righter fighter
+0.85 : redos redox
+0.81 : fivers rivers
+1.0 : outwore outwrote
+1.0 : chafing chaffing
+0.87 : torero risk
+0.89 : aria stow
+1.0 : bruins brins
+0.85 : hour gid
+1.0 : hour gie
+0.85 : halts malts
+0.85 : maps haps
+1.0 : baas bass
+0.81 : baas gas
+1.0 : baas bas
+1.0 : baas jeer
+1.0 : baal ball
+0.81 : baal gal
+1.0 : baal bal
+0.81 : baal gall
+1.0 : worshiping worshipping
+1.0 : gropes gripes
+1.0 : groper griper
+1.0 : groper gripier
+1.0 : groped griped
+0.81 : tameness gameness
+1.0 : perry peery
+1.0 : lyres lyes
+0.8 : synergic synergid
+0.81 : tog toot
+0.81 : tog toit
+0.81 : tog aga
+0.81 : tog dud
+0.81 : tog tot
+0.87 : tod tore
+0.87 : tod toe
+0.87 : tod tote
+0.81 : tod god
+0.81 : fillets rillets
+1.0 : chary charry
+0.85 : chart fusty
+1.0 : chock cock
+0.9 : flams roams
+0.81 : bloated gloated
+0.81 : bloater gloater
+1.0 : sparring sparing
+1.0 : point pint
+0.85 : fused chaws
+1.0 : appals appalls
+1.0 : peppers peepers
+1.0 : faceted facetted
+1.0 : riddling ridgling
+0.81 : riddling fiddling
+1.0 : strips strops
+0.81 : whores shores
+0.81 : whores shoes
+0.81 : whores shotes
+0.81 : whored shoed
+0.81 : whored shored
+1.0 : tiff rudd
+1.0 : pickers pickeers
+1.0 : aggers agers
+1.0 : scandaling scandalling
+1.0 : stripped stropped
+0.85 : curl curio
+1.0 : bettas betas
+1.0 : cookey cookery
+0.81 : whiting shitting
+1.0 : latices lattices
+1.0 : spirts spurts
+1.0 : spirts sports
+1.0 : streeks steeks
+0.85 : havens mavens
+1.0 : fervours fervors
+1.0 : drops drips
+0.85 : hammered mammered
+0.85 : hammered yammered
+1.0 : measliest mealiest
+1.0 : havior haviour
+0.89 : aitches quitches
+0.81 : rices fices
+0.83 : chouse douse
+0.87 : siver wiver
+0.85 : hashed mashed
+0.85 : yard hard
+0.85 : yare hare
+1.0 : whoop whop
+0.81 : whoop agio
+0.81 : whoop shop
+1.0 : seines serines
+0.87 : wits aura
+1.0 : wits writs
+0.87 : wits sits
+1.0 : beets bets
+0.87 : wite sire
+0.87 : wite dour
+1.0 : wite write
+0.87 : wite site
+0.87 : wite dor
+0.87 : wite elf
+1.0 : wite wire
+0.81 : whiniest shiniest
+1.0 : sporing spirting
+1.0 : sporing sporting
+1.0 : sporing spring
+1.0 : sporing spiring
+1.0 : sporing spurring
+1.0 : tripe trope
+0.85 : haleness maleness
+1.0 : statues statutes
+1.0 : statues statures
+0.87 : weigher sigher
+0.81 : gasifiers basifiers
+0.87 : weighed sighed
+0.81 : whirr whiff
+0.81 : whirr shirr
+0.81 : garish tartish
+0.81 : cuteys virtue
+0.85 : hazing mazing
+0.85 : hail mail
+0.85 : hair mair
+0.87 : cloy skit
+1.0 : purism prism
+1.0 : purism porism
+1.0 : charka charkha
+1.0 : touted toited
+1.0 : coke choke
+1.0 : tewed tweed
+0.85 : harrier marrier
+0.85 : harries marries
+0.87 : nail jail
+0.8 : sylphic sylphid
+1.0 : prate pirate
+1.0 : riots roots
+1.0 : riots routs
+0.83 : coffing doffing
+0.9 : roamers flamers
+1.0 : topographical typographical
+0.83 : chousing dousing
+0.87 : amis snore
+1.0 : amir snout
+1.0 : amir snot
+0.81 : blots glouts
+1.0 : hiccupped hiccuped
+0.89 : wowed sowed
+0.81 : gowns towns
+0.83 : coyest doest
+0.85 : doff dorr
+0.85 : doff siree
+0.81 : mud mure
+0.81 : mud mute
+1.0 : mud bys
+1.0 : finger finer
+0.81 : finger ringer
+0.81 : finger ruiner
+0.87 : elm wig
+1.0 : bet beet
+1.0 : pedaling pedalling
+1.0 : tripes tropes
+1.0 : chasses chases
+0.83 : cozinesses dozinesses
+1.0 : excerpt except
+1.0 : khaki kaki
+0.81 : duke agma
+0.85 : aha die
+0.85 : aha four
+0.85 : aha for
+0.85 : aha roof
+0.85 : aha dire
+1.0 : aha agha
+0.83 : roc rod
+0.87 : rod roue
+0.87 : rod roe
+0.85 : rot sue
+1.0 : rot rout
+1.0 : rot ryot
+0.81 : rot wud
+0.85 : rot sure
+1.0 : rot aahs
+0.81 : rot toph
+1.0 : rot root
+1.0 : rot typy
+1.0 : rot riot
+1.0 : row tope
+1.0 : row type
+1.0 : pedlers peddlers
+1.0 : goes gores
+0.81 : goes toes
+0.81 : goes tores
+0.81 : goes totes
+0.89 : requiter fairer
+0.85 : requiter fakeer
+0.85 : requiter faker
+1.0 : spued sped
+0.9 : spued wiped
+1.0 : spued spied
+1.0 : requited required
+0.85 : requited faked
+0.89 : requited faired
+1.0 : hadj hajj
+0.85 : hadj keto
+1.0 : khadis kadis
+1.0 : pree pee
+1.0 : prep pep
+0.89 : prep owl
+1.0 : prep peep
+1.0 : fruiter frier
+1.0 : meeter meter
+1.0 : fruited fried
+1.0 : fourth forth
+0.85 : eights dights
+1.0 : uteri gash
+0.85 : uteri gay
+0.85 : uteri gam
+0.81 : uteri bah
+0.81 : uteri bash
+1.0 : sorties sorites
+0.89 : sorties worries
+0.85 : hanks yanks
+0.89 : sortied worrited
+0.89 : sortied worried
+0.83 : dopier cooper
+0.83 : dopier copter
+1.0 : dopier doper
+0.83 : dopier choppier
+0.83 : dopier chopper
+0.83 : dopier copier
+0.83 : dopier copper
+0.83 : dopier coper
+0.83 : choused doused
+0.83 : chouser douser
+0.83 : chouses douses
+1.0 : teepees tepees
+1.0 : batting bating
+0.81 : batting gating
+1.0 : pieplant preplant
+1.0 : anopsia anoopsia
+1.0 : insets inserts
+1.0 : pores pyres
+1.0 : chaloth challoth
+1.0 : trot tryout
+1.0 : trot trout
+0.81 : trot reif
+0.87 : written sitten
+1.0 : jereed jerreed
+1.0 : respiring respring
+0.89 : sot wot
+1.0 : sot air
+1.0 : quiet worry
+1.0 : canvasers canvassers
+1.0 : chorals corals
+1.0 : candours candors
+0.85 : cash cay
+0.85 : cash cam
+1.0 : favouring favoring
+0.8 : ditties cities
+1.0 : dumpier dumper
+1.0 : retinues reinjures
+0.81 : pygmyish pygmyism
+0.83 : dozy cozy
+1.0 : coring choiring
+1.0 : coring choring
+1.0 : coring courting
+0.81 : whales shales
+1.0 : finale finagle
+1.0 : tieing tiering
+0.81 : barons garrons
+1.0 : barons baryons
+1.0 : subpenas subpoenas
+0.85 : sue rout
+0.81 : sue ays
+0.85 : sue ryot
+1.0 : sue sure
+0.85 : sue aahs
+0.81 : sue fog
+0.85 : sue root
+0.85 : sue typy
+0.85 : sue riot
+1.0 : sum din
+0.87 : toed gled
+0.81 : toed gored
+1.0 : toed toted
+1.0 : toed toyed
+1.0 : toed tooted
+1.0 : parings partings
+1.0 : jin sex
+1.0 : jin hum
+1.0 : loping lopping
+1.0 : loping looping
+0.81 : garnish tarnish
+1.0 : piasavas piassavas
+0.85 : hammers yammers
+0.85 : hammers mammers
+1.0 : raspier rasper
+0.81 : gabbled babbled
+1.0 : perter petter
+1.0 : perter peter
+0.83 : dorms corms
+1.0 : tafia taffia
+1.0 : loopy loppy
+1.0 : loops lops
+1.0 : candour candor
+0.87 : store stood
+0.87 : store arris
+0.81 : fidged ridged
+0.83 : cobras dobras
+0.81 : barter garter
+0.89 : sorites worries
+0.85 : founding rounding
+1.0 : wrote wore
+0.87 : wrote wood
+1.0 : wrote woe
+0.89 : wrote sore
+1.0 : withing writhing
+0.81 : barbless garbless
+0.8 : mantic mantid
+0.81 : goyish toyish
+1.0 : burrier burier
+0.85 : chlorite chlorid
+0.81 : fogyish fogyism
+0.81 : shire white
+1.0 : halloing haloing
+1.0 : charrier charier
+1.0 : prorate priorate
+1.0 : pyrone prone
+1.0 : lone longe
+0.8 : nick nidi
+0.9 : spiers wipers
+1.0 : spiers speers
+0.81 : barbing garbing
+1.0 : staled stalled
+1.0 : decoloring decolouring
+1.0 : suety surety
+0.83 : chose dose
+1.0 : winkles wrinkles
+1.0 : avgases avgasses
+1.0 : salties saltires
+1.0 : winkled wrinkled
+0.85 : hards yards
+1.0 : piassava piasava
+1.0 : froe frore
+1.0 : sidewalks sidewalls
+0.87 : gled toted
+0.87 : gled toyed
+0.81 : gled bled
+0.87 : gled tooted
+1.0 : calks calfs
+0.89 : calks calx
+1.0 : calks calls
+0.8 : chaos chalks
+1.0 : kamsins khamsins
+0.87 : widdling sidling
+0.81 : bashed gashed
+0.81 : bashes gashes
+0.81 : basher gasher
+0.87 : ole old
+1.0 : dadas teeter
+1.0 : dadas tetter
+0.81 : whirry shirty
+0.81 : whirrs shirrs
+0.81 : why shy
+0.85 : married harried
+0.81 : jot jog
+1.0 : joy hit
+0.87 : joe his
+1.0 : jotty guyer
+1.0 : ladled lalled
+1.0 : porting prying
+1.0 : porting poring
+1.0 : jereeds jerreeds
+0.87 : cameo camel
+0.81 : tuyer etas
+1.0 : carried caried
+1.0 : carries caries
+1.0 : outset outsert
+1.0 : spiral sporal
+0.83 : dourines chorines
+1.0 : maroon marron
+0.83 : conations donations
+1.0 : sass pop
+1.0 : sass ewe
+0.81 : figs rigs
+0.81 : basifying gasifying
+0.81 : gallies tallies
+1.0 : tether teether
+1.0 : remet remeet
+1.0 : camasses camases
+0.81 : gaming taming
+0.87 : wins sins
+0.87 : wink sink
+1.0 : keeps keps
+0.87 : wing sing
+0.87 : wine singe
+0.87 : wine sine
+0.89 : woods sods
+1.0 : rumour rumor
+0.89 : bowls bowwow
+1.0 : potions putons
+1.0 : potions pitons
+0.81 : shopper whopper
+0.81 : shopper whooper
+0.81 : shopped whooped
+0.81 : shopped whopped
+0.83 : coursers dorsers
+0.85 : hays mays
+1.0 : sliped slipped
+0.81 : gloaters bloaters
+1.0 : antitrust antirust
+1.0 : grove groove
+1.0 : kolhozes kolkhozes
+1.0 : dolors dolours
+0.83 : dolors colors
+1.0 : harbors harbours
+0.87 : score axis
+0.87 : chile child
+1.0 : erst wear
+1.0 : pedestaling pedestalling
+0.81 : babies gabies
+1.0 : subpoena subpena
+0.83 : cottier dottier
+0.83 : cottier dotier
+0.89 : calfs calx
+1.0 : calfs calls
+0.83 : collying dollying
+1.0 : compting computing
+1.0 : griper gripier
+1.0 : pest prest
+1.0 : priorates prorates
+0.81 : glisters blisters
+1.0 : dottel dottrel
+0.83 : dotter cotter
+1.0 : insetting inserting
+1.0 : spirting sporting
+1.0 : spirting spring
+1.0 : spirting spiring
+1.0 : spirting spurring
+0.81 : if yew
+0.81 : if out
+1.0 : if ta
+0.89 : solver wolver
+0.81 : rilles filles
+1.0 : steaks streaks
+1.0 : fruiters friers
+1.0 : dato datto
+1.0 : ratoons rattons
+1.0 : ratoons rations
+0.85 : matches hatches
+0.85 : matcher hatcher
+0.85 : matched hatched
+1.0 : compotes computes
+1.0 : canvas canvass
+0.8 : focalises vocalises
+0.81 : gaff baff
+0.8 : focalised vocalised
+1.0 : scorers scoters
+0.85 : yarrow harrow
+1.0 : subbasses subbases
+0.81 : future stretta
+0.81 : tasted gasted
+1.0 : farting faring
+0.85 : robs diva
+0.85 : robs fobs
+1.0 : hooped hoped
+1.0 : hooped hopped
+1.0 : hooper hoper
+1.0 : hooper hopper
+1.0 : raged ragged
+1.0 : peaklike pealike
+1.0 : rivalled rivaled
+1.0 : ante antre
+1.0 : sonnetted sonneted
+0.81 : gamest tamest
+0.89 : brow brios
+0.89 : brow broos
+1.0 : broo brio
+1.0 : spiraling spiralling
+0.81 : glistered blistered
+1.0 : berry beery
+1.0 : cheery cherry
+0.83 : domic comic
+1.0 : morons morions
+0.85 : clam clash
+0.85 : clay clash
+1.0 : contingent continent
+1.0 : ration ratoon
+1.0 : ration ratton
+1.0 : ratios ratos
+1.0 : partied parried
+1.0 : parties parries
+1.0 : parties paries
+0.81 : bakings gaskings
+0.81 : torse gorse
+0.87 : torsk torsi
+1.0 : ae hi
+1.0 : ae jo
+1.0 : ad et
+1.0 : ad add
+0.89 : ai ask
+0.89 : ai wo
+0.89 : ai woo
+1.0 : ai so
+0.85 : am ash
+0.85 : am tip
+0.85 : am tup
+0.85 : am aah
+0.85 : am ah
+0.85 : am top
+1.0 : an el
+0.87 : an rip
+1.0 : as wee
+1.0 : as er
+1.0 : as ass
+1.0 : as op
+1.0 : as err
+1.0 : as aas
+1.0 : as we
+1.0 : ar ho
+0.81 : at too
+1.0 : at go
+0.81 : at shh
+0.81 : at sh
+0.81 : at yup
+0.81 : at to
+0.81 : at yip
+0.81 : at wry
+0.85 : ay ash
+0.85 : ay tip
+0.85 : ay tup
+0.85 : ay aah
+0.8 : ay xu
+0.85 : ay ah
+0.85 : ay top
+0.81 : whiners shiners
+1.0 : balers ballers
+1.0 : cassaba casaba
+1.0 : labor labour
+0.83 : dories corries
+1.0 : worrited worried
+0.83 : dozier cozier
+0.83 : dovens covens
+1.0 : spoilt spilt
+1.0 : walling waling
+0.81 : lout kif
+1.0 : lout jute
+0.81 : lout log
+1.0 : lout lot
+0.85 : hauling mauling
+0.87 : sinning winning
+1.0 : mouthers mothers
+1.0 : pelitic pyelitic
+0.81 : bendy bench
+1.0 : lute lure
+1.0 : slipper slippier
+0.81 : erupted duped
+0.81 : erupted dupped
+1.0 : lippier lipper
+0.81 : tamenesses gamenesses
+0.81 : fights rights
+0.87 : jager nagger
+1.0 : jager jagger
+1.0 : equaled equalled
+1.0 : caulks cauls
+1.0 : caulks caulds
+1.0 : covet covert
+0.83 : coves doves
+0.83 : coven doven
+1.0 : metaling metalling
+1.0 : tumors tumours
+1.0 : ser kop
+1.0 : ser awee
+1.0 : ser awe
+1.0 : ser seer
+1.0 : sex hum
+1.0 : sec hun
+1.0 : sec gym
+0.87 : sel drop
+0.87 : sel drip
+0.89 : hollow hollos
+1.0 : courantos corantos
+0.81 : bloops glops
+1.0 : ferrites ferries
+0.83 : doat coat
+1.0 : teeter tetter
+1.0 : sima dons
+0.83 : sima cons
+0.87 : sima eons
+1.0 : ardours ardors
+0.87 : sighs weighs
+0.87 : sight weight
+0.87 : sight wright
+0.87 : sight wight
+1.0 : garotted garrotted
+0.81 : fidge ridge
+0.89 : woeness soreness
+1.0 : ampoules ampules
+0.87 : sides wides
+1.0 : caroch carroch
+1.0 : pallier palier
+0.85 : mackles hackles
+0.85 : mackled hackled
+0.87 : sirs weirs
+1.0 : pally paly
+0.8 : vocalize focalize
+1.0 : pussley pusley
+1.0 : haloed halloed
+0.85 : mammer hammer
+1.0 : rods roods
+0.81 : garb barb
+0.83 : kist loch
+1.0 : sayids sayyids
+1.0 : favours favors
+1.0 : pined pinged
+1.0 : steek streek
+1.0 : steep step
+1.0 : steep strep
+1.0 : hope hoopoe
+1.0 : bryonies brionies
+1.0 : hajis hadjis
+1.0 : hajis hajjis
+1.0 : rioting rotting
+1.0 : rioting rooting
+1.0 : rioting routing
+0.83 : doziness coziness
+0.81 : rigged figged
+0.85 : maul haul
+0.89 : preppie owls
+1.0 : preppie kaka
+0.81 : lush kyat
+1.0 : lust kyar
+1.0 : pontoon ponton
+0.81 : glares blares
+0.81 : ball gal
+1.0 : ball bal
+0.81 : ball gall
+0.87 : bale bald
+0.81 : bale gale
+1.0 : bals balks
+1.0 : bals balls
+1.0 : bals balds
+0.81 : bals galls
+1.0 : bals baals
+0.81 : bals gals
+1.0 : colour color
+0.83 : colour dolor
+0.83 : colour dolour
+0.8 : vocalizes focalizes
+1.0 : maggot magot
+1.0 : glut shrew
+0.81 : glue blue
+0.81 : taunt gaunt
+0.81 : ballon gallon
+1.0 : mura nits
+1.0 : mure mute
+0.81 : mure bys
+1.0 : raging ragging
+1.0 : cradling craaling
+1.0 : bums mind
+1.0 : bruits brits
+0.81 : rigging figging
+1.0 : tryout trout
+0.81 : tryout reif
+0.81 : blistering glistering
+0.81 : tang gang
+1.0 : belaboring belabouring
+0.83 : come dome
+1.0 : groved grooved
+1.0 : piers peers
+0.89 : quiver aiver
+1.0 : escallops escalops
+1.0 : in ex
+1.0 : forty diet
+1.0 : rattons rations
+1.0 : cows chows
+0.85 : putty mass
+0.85 : putty mas
+1.0 : putty pity
+1.0 : putty potty
+1.0 : putty ort
+1.0 : staggers stagers
+1.0 : staggery stagey
+1.0 : toyers toters
+0.81 : toyers goers
+1.0 : toyers tooters
+0.85 : hawed mawed
+0.85 : hawed yawed
+1.0 : puton piton
+1.0 : canalling canaling
+0.85 : wrung sung
+1.0 : ensures ensues
+1.0 : chorioid choroid
+0.87 : fido dusk
+1.0 : savories savouries
+1.0 : victualed victualled
+0.89 : hallos hallow
+1.0 : hallos halos
+1.0 : creping creeping
+0.89 : hallow halos
+0.85 : hallow mallow
+1.0 : basses bases
+0.81 : basses gasses
+1.0 : choring choiring
+1.0 : choring courting
+1.0 : laagered lagered
+1.0 : lagers laagers
+1.0 : lagers laggers
+0.8 : dines cines
+1.0 : flavouring flavoring
+1.0 : dined dinged
+0.85 : mantle hantle
+1.0 : topologies typologies
+0.87 : jagers naggers
+1.0 : jagers jaggers
+1.0 : mols molds
+0.87 : mole mold
+1.0 : coppra copra
+0.85 : aghas direr
+0.85 : aghas fort
+0.81 : balloon galloon
+0.81 : baiter gaiter
+1.0 : flask flak
+0.85 : flash flay
+0.85 : flash flam
+0.81 : grapy graph
+1.0 : felspars feldspars
+1.0 : siped sipped
+0.85 : burl burro
+0.81 : taps gaps
+1.0 : retired retied
+1.0 : retires reties
+1.0 : jam purl
+0.87 : jam lek
+0.85 : jam pro
+0.81 : gathers bathers
+0.83 : nock nodi
+1.0 : decolours decolors
+1.0 : morels motels
+1.0 : crepe creepie
+1.0 : crepy creepy
+0.83 : colt dolt
+0.83 : cols dols
+1.0 : cols colds
+0.83 : cole dole
+0.87 : cole cold
+0.81 : gassing basing
+0.85 : hale male
+1.0 : recap redcap
+0.85 : halm malm
+1.0 : halo hallo
+0.87 : skag dowry
+0.81 : skag skat
+0.87 : jaggs nags
+1.0 : jaggs jags
+0.87 : el rip
+1.0 : et add
+1.0 : er wee
+1.0 : er ass
+1.0 : er op
+1.0 : er err
+1.0 : er aas
+1.0 : er we
+1.0 : quart wristy
+1.0 : maggots magots
+0.81 : sheep wheep
+0.81 : sheet whet
+0.89 : sops woops
+1.0 : savourier savorier
+0.81 : sheen wheen
+1.0 : courier courtier
+1.0 : preens peens
+0.85 : hammocks mammocks
+0.81 : stash giro
+0.85 : stash stay
+0.8 : milieux milieus
+1.0 : dishlike dislike
+1.0 : dishlike disklike
+1.0 : ratio rato
+1.0 : poussies pussies
+1.0 : honours honors
+1.0 : seldom selfdom
+0.83 : dollops collops
+0.81 : shim whim
+1.0 : scot scout
+1.0 : staring starting
+1.0 : popes poppies
+0.89 : wounds sounds
+0.81 : ship whip
+0.81 : tasses gasses
+0.87 : wintered sintered
+1.0 : measlier mealier
+1.0 : read readd
+0.85 : hacks yacks
+0.85 : hacks macks
+0.81 : wherrying sheering
+1.0 : outstaring outstarting
+1.0 : putter potter
+1.0 : putted potted
+1.0 : putted pitted
+0.81 : ban gan
+1.0 : chords cords
+1.0 : coking choking
+1.0 : sordines sourdines
+0.87 : skis clod
+1.0 : vert vet
+0.87 : skim clon
+0.81 : whoppers shoppers
+1.0 : whoppers whoopers
+0.81 : finable ruinable
+1.0 : injure inure
+0.85 : fondues rondures
+0.85 : marks harks
+0.81 : tapeworm gapeworm
+1.0 : khadi kadi
+0.85 : gash gay
+0.85 : gash gam
+0.81 : gash bah
+0.81 : gash bash
+0.81 : gast bast
+1.0 : prerequisites perquisites
+0.81 : fined ringed
+0.81 : fined ruined
+0.81 : finer ringer
+0.81 : finer ruiner
+0.85 : foot tippy
+1.0 : pug yea
+1.0 : ask wo
+1.0 : ask woo
+0.89 : ask so
+1.0 : ash tip
+1.0 : ash tup
+1.0 : ash aah
+1.0 : ash ah
+1.0 : ash top
+0.87 : pur is
+1.0 : pur oe
+0.87 : pur od
+0.87 : pur na
+1.0 : pur ore
+1.0 : pows pews
+0.9 : flaming roaming
+1.0 : dialist diallist
+1.0 : pretty petty
+1.0 : trees tees
+1.0 : treed teed
+1.0 : withe writhe
+0.83 : doping coping
+0.83 : doping copping
+1.0 : rumoring rumouring
+0.81 : shat shag
+0.81 : shat tori
+0.81 : shat what
+0.81 : shat torii
+0.85 : shay shah
+0.85 : shay toro
+1.0 : shag tori
+1.0 : shag torii
+1.0 : shah toro
+0.85 : used haws
+1.0 : used yaws
+1.0 : isotype isotope
+1.0 : ensued ensured
+1.0 : scoter scorer
+1.0 : jumpier jumper
+0.85 : slash slay
+0.85 : slash slam
+1.0 : rum tin
+1.0 : rub yon
+1.0 : rut you
+1.0 : chalot challot
+1.0 : toques torques
+1.0 : battiks batiks
+1.0 : preachers peachers
+1.0 : citrous cirrous
+1.0 : wearying wearing
+0.85 : required faked
+0.89 : required faired
+0.85 : requires fakes
+1.0 : requires requites
+0.81 : go too
+0.81 : go shh
+0.81 : go sh
+0.81 : go yup
+0.81 : go to
+0.81 : go yip
+0.81 : go wry
+1.0 : ass wee
+1.0 : ass op
+1.0 : ass err
+1.0 : ass aas
+1.0 : ass we
+0.83 : cozily dozily
+1.0 : baron baryon
+0.81 : baron garron
+1.0 : weepier weeper
+1.0 : mopers moppers
+1.0 : walled waled
+1.0 : clotting clouting
+0.8 : focalising vocalising
+1.0 : uprearing uptearing
+0.87 : clour skite
+0.87 : clout adjure
+0.81 : clout clog
+1.0 : clout clot
+0.81 : ricins ficins
+1.0 : statutes statures
+1.0 : allotypies allotypes
+0.87 : purr odd
+0.87 : purr lee
+1.0 : lagering laagering
+1.0 : hippier hipper
+0.85 : foiling roiling
+1.0 : cadis caddis
+1.0 : wading wadding
+0.83 : conge done
+1.0 : conge cone
+0.87 : fells grippe
+0.81 : tawsy gawsy
+1.0 : sambur sambhur
+0.81 : bagged gagged
+0.81 : bagged gaged
+1.0 : bagged badged
+0.8 : civvy divvy
+1.0 : chorded corded
+1.0 : gallivant galivant
+0.85 : yapped happed
+0.81 : shinny whinny
+1.0 : shh too
+1.0 : shh sh
+1.0 : shh yup
+1.0 : shh to
+1.0 : shh yip
+1.0 : shh wry
+0.85 : yapper happier
+1.0 : riped roped
+1.0 : ripes ropes
+1.0 : riper roper
+1.0 : riper ropier
+0.8 : owns peke
+1.0 : neuron neutron
+1.0 : taller taler
+0.87 : sighers weighers
+0.87 : wooed sled
+0.89 : wooer sorer
+0.87 : sizes wizes
+1.0 : oyes ores
+1.0 : oyes oes
+0.9 : goats blats
+1.0 : chokes cokes
+1.0 : choked coked
+0.8 : citron diuron
+0.87 : winging singing
+1.0 : winging wringing
+0.81 : whists shists
+1.0 : gagger gager
+0.81 : gagger tagger
+0.81 : gagger badger
+1.0 : gagged gaged
+0.81 : gagged badged
+0.81 : gagged tagged
+0.81 : whams shams
+1.0 : flanes flanges
+1.0 : broncho bronco
+1.0 : ripest ropiest
+1.0 : crotons croutons
+0.85 : malms halms
+1.0 : drew hut
+0.8 : drek sewn
+1.0 : galop gallop
+0.85 : maes haes
+1.0 : loppers lopers
+1.0 : loppers loopers
+0.8 : soaking slaking
+0.85 : harrowed marrowed
+0.85 : lour jus
+0.85 : lour kid
+1.0 : lour kite
+0.87 : ism jab
+0.87 : ism pork
+1.0 : hoop hop
+1.0 : hoop sty
+1.0 : hoop art
+0.85 : matted hatted
+1.0 : steeked streeked
+0.85 : matter hatter
+1.0 : gimballed gimbaled
+1.0 : wrists wists
+0.83 : coating doating
+0.81 : ridging fidging
+0.87 : is oe
+1.0 : is od
+0.87 : is ore
+0.9 : flamed roamed
+1.0 : id of
+0.85 : id or
+1.0 : id us
+0.85 : id put
+0.85 : id our
+0.85 : id ha
+0.85 : id pit
+0.85 : id pot
+1.0 : id ya
+1.0 : sporting spring
+1.0 : sporting spiring
+1.0 : sporting spurring
+1.0 : burr mitt
+1.0 : bury burry
+1.0 : pitons putons
+1.0 : belabours belabors
+1.0 : pirating prating
+1.0 : alerts aglets
+1.0 : foemen foremen
+0.85 : skid skite
+1.0 : erg yuk
+0.87 : weir sir
+0.87 : weir doit
+1.0 : weir ropy
+0.87 : weir dot
+1.0 : souring sorting
+1.0 : balks balls
+1.0 : balks balds
+0.81 : balks galls
+1.0 : balks baals
+0.81 : balks gals
+1.0 : triter trier
+1.0 : paviors paviours
+1.0 : excerpted excepted
+1.0 : cute cue
+0.81 : cute cud
+1.0 : cute bout
+1.0 : cute bot
+1.0 : cute cure
+1.0 : galivanting gallivanting
+0.85 : harked marked
+0.81 : gagging tagging
+0.81 : gagging badging
+1.0 : gagging gaging
+1.0 : rewrites rewires
+0.83 : dollop collop
+1.0 : tutored tutoyed
+0.85 : maziness haziness
+0.81 : fills rills
+1.0 : sprier sportier
+1.0 : sprier spurrier
+0.81 : fille rille
+1.0 : fervour fervor
+1.0 : faquirs faqirs
+1.0 : savoring savouring
+0.81 : whitest shiest
+1.0 : arty gip
+0.87 : middle busks
+1.0 : devours devoirs
+0.83 : coffer doffer
+0.81 : gangs bangs
+0.81 : gangs tangs
+0.87 : sinter winter
+1.0 : dipper dippier
+1.0 : dipper diopter
+0.83 : docks cocks
+0.83 : docks chocks
+1.0 : negaton negation
+0.81 : nosy nosh
+1.0 : crouton croton
+0.81 : bloats gloats
+0.85 : roaming foaming
+1.0 : droshkies droskies
+1.0 : mornings mournings
+1.0 : rewire rewrite
+0.81 : toggling goggling
+1.0 : scour axite
+1.0 : sprit spirit
+1.0 : contouring contorting
+0.8 : trousseaux trousseaus
+0.81 : bloop glop
+0.81 : bloom gloom
+0.83 : dough chough
+0.83 : dough cough
+1.0 : clamor clamour
+1.0 : betime berime
+1.0 : walls walks
+1.0 : pirated prated
+1.0 : galeas galleass
+0.83 : dowsing chowsing
+1.0 : kop awee
+1.0 : kop awe
+1.0 : kop seer
+0.81 : baryon garron
+1.0 : samburs sambhurs
+0.81 : tanged ganged
+0.89 : ka os
+1.0 : ka ow
+1.0 : ka pie
+1.0 : ka pe
+1.0 : ka pye
+0.87 : weigh sigh
+1.0 : fruiting fritting
+0.89 : airting quirting
+1.0 : airting airing
+0.89 : airting quiring
+1.0 : rancor rancour
+0.89 : morrow morros
+1.0 : shouting shotting
+0.85 : matters hatters
+1.0 : limier limiter
+1.0 : khats kats
+1.0 : bods visa
+1.0 : pet poet
+1.0 : pet pert
+0.89 : pep owl
+1.0 : pep peep
+1.0 : per owe
+1.0 : per kaas
+1.0 : per peer
+1.0 : per kas
+1.0 : per pier
+1.0 : ped pied
+1.0 : ladder lader
+0.81 : riddlers fiddlers
+1.0 : galloot galoot
+1.0 : coypous coypus
+1.0 : ambers ambeers
+0.85 : marrowing harrowing
+1.0 : pettinesses prettinesses
+0.81 : feta lippy
+1.0 : metes metres
+1.0 : meted metred
+1.0 : runs etyma
+1.0 : slipping sliping
+1.0 : ret try
+1.0 : ret ewer
+1.0 : ret sad
+1.0 : rei trio
+1.0 : rei sash
+0.85 : rei say
+1.0 : ref sax
+1.0 : ref oil
+1.0 : curer cuter
+1.0 : cures cutes
+1.0 : prees pees
+1.0 : sering seeing
+0.85 : hazes mazes
+1.0 : notes noes
+1.0 : dippier diopter
+0.81 : badges gages
+1.0 : allonge alone
+0.81 : agas gouty
+1.0 : agas totty
+1.0 : prose porose
+1.0 : oops ops
+0.81 : gated bated
+1.0 : twinges twines
+1.0 : trode triode
+1.0 : twinged twined
+1.0 : insert inset
+0.81 : whines shines
+0.81 : whiner shiner
+1.0 : broche brioche
+0.81 : whined shined
+1.0 : snapper snappier
+1.0 : paned panged
+0.85 : bus noir
+1.0 : bus mid
+0.85 : bus mite
+0.85 : bus nor
+0.85 : bus mire
+1.0 : but bhut
+1.0 : bub mim
+1.0 : bud nog
+0.81 : bud not
+0.81 : bud mir
+1.0 : street stet
+0.81 : sheeter whetter
+0.81 : sheeted whetted
+1.0 : paty patty
+0.81 : toadless goalless
+0.85 : ma or
+0.85 : ma put
+0.85 : ma our
+0.85 : ma ha
+0.85 : ma pit
+0.85 : ma pot
+0.87 : weighters sighters
+1.0 : mu by
+1.0 : my nu
+1.0 : pipier piper
+0.87 : fado twerp
+1.0 : canvased canvassed
+1.0 : roose rose
+0.81 : filling rilling
+1.0 : dawting dawing
+0.81 : goa yips
+1.0 : gob duc
+1.0 : gox fiz
+0.81 : got toot
+0.81 : got toit
+1.0 : got gout
+0.81 : got aga
+1.0 : got dure
+0.81 : got dud
+1.0 : got due
+0.81 : got tot
+0.81 : gor rite
+0.81 : gor tour
+0.81 : gor tor
+1.0 : gor fire
+0.85 : hang yang
+1.0 : steeps streps
+1.0 : steeps steps
+1.0 : anopsias anoopsias
+0.81 : toon dub
+1.0 : toon ton
+1.0 : toon rim
+1.0 : toom tom
+1.0 : toom rib
+0.81 : balling galling
+1.0 : balling baling
+1.0 : taxies taxites
+1.0 : beagles beadles
+1.0 : soldans solans
+0.81 : bladder gladder
+1.0 : briony bryony
+1.0 : gift staw
+0.8 : ich yar
+1.0 : cooper copter
+0.83 : cooper doper
+1.0 : cooper choppier
+1.0 : cooper chopper
+1.0 : cooper copier
+1.0 : cooper copper
+1.0 : cooper coper
+0.81 : garnishes tarnishes
+0.89 : sonders wonders
+0.81 : garnished tarnished
+1.0 : cauls caulds
+1.0 : alga ala
+0.9 : alga spew
+0.83 : dowering cowering
+1.0 : statute statue
+1.0 : statute stature
+1.0 : lopping looping
+1.0 : coopered coppered
+1.0 : compeered compered
+1.0 : dex kin
+1.0 : witting witing
+0.87 : witting sitting
+0.87 : witting siting
+1.0 : witting writing
+1.0 : spire spore
+1.0 : spirt spurt
+1.0 : spirt sport
+0.9 : spirt quoter
+1.0 : peed preed
+1.0 : miring mitring
+1.0 : dropper drippier
+1.0 : dropped dripped
+1.0 : tipper topper
+1.0 : tipper tippier
+1.0 : tipped topped
+1.0 : tipped tupped
+1.0 : poet pert
+0.87 : weighted sighted
+0.87 : weighter sighter
+1.0 : coopering coppering
+0.83 : choppiest dopiest
+1.0 : hug sea
+1.0 : hun gym
+1.0 : huh awa
+0.85 : stolid stoolie
+1.0 : certes cetes
+1.0 : frit zags
+0.89 : wooled soled
+0.85 : mapped happed
+1.0 : tooling toling
+1.0 : byes bytes
+1.0 : byes byres
+1.0 : unspoilt unspilt
+0.83 : color dolor
+0.83 : color dolour
+1.0 : initialing initialling
+1.0 : polo rede
+1.0 : poll redd
+0.81 : gaited baited
+1.0 : antirevolutionary antievolutionary
+0.85 : cyanite cyanid
+0.81 : gownsman townsman
+1.0 : mother mouther
+0.87 : aures weird
+1.0 : scarriest scariest
+1.0 : pew pow
+1.0 : pew la
+0.85 : of or
+1.0 : of us
+0.85 : of put
+0.85 : of our
+0.85 : of ha
+0.85 : of pit
+0.85 : of pot
+1.0 : of ya
+0.87 : oe od
+0.87 : oe na
+1.0 : oe ore
+0.87 : od ore
+1.0 : oy it
+1.0 : oy ye
+1.0 : oy piu
+1.0 : oy fa
+1.0 : oy tew
+0.85 : ox os
+0.89 : os ow
+0.89 : os pie
+0.89 : os pe
+0.89 : os pye
+0.85 : or us
+1.0 : or put
+1.0 : or our
+1.0 : or ha
+1.0 : or pit
+1.0 : or pot
+0.85 : or ya
+1.0 : op wee
+1.0 : op err
+1.0 : op aas
+1.0 : op we
+1.0 : amber ambeer
+0.85 : hazards mazards
+0.85 : nitrid nitrite
+0.8 : nitrid nitric
+1.0 : pes pyes
+1.0 : pes pies
+1.0 : jus kid
+0.85 : jus kite
+0.81 : whorts shorts
+0.89 : woenesses sorenesses
+1.0 : trench tench
+0.81 : trench trendy
+0.81 : banders ganders
+1.0 : direr fort
+0.8 : direr citer
+1.0 : cheetahs chetahs
+1.0 : padles pales
+0.85 : malls halls
+1.0 : biotype biotope
+1.0 : sloop slop
+1.0 : orra putts
+0.85 : hailing mailing
+0.81 : fiar tost
+0.81 : whale shale
+0.87 : sintering wintering
+0.81 : gangling tangling
+1.0 : foreman foeman
+0.81 : tars gars
+0.87 : nailed jailed
+0.87 : nailer jailer
+1.0 : transshiping transhipping
+1.0 : corrody corody
+0.85 : hags mags
+1.0 : escalloped escaloped
+1.0 : puffed pouffed
+0.9 : flagless roadless
+0.85 : mantles hantles
+1.0 : deployed deplored
+1.0 : scrapie scrape
+0.81 : gables tables
+1.0 : potters putters
+1.0 : weights wights
+0.87 : weights sights
+1.0 : weights wrights
+0.87 : pyre ods
+1.0 : pyre pore
+1.0 : pyre pure
+1.0 : fog ays
+0.85 : fog wud
+0.81 : fog sure
+0.85 : fog toph
+0.81 : blobs globs
+0.81 : kris iris
+0.9 : oars lars
+1.0 : carrom carom
+0.83 : cocked docked
+0.81 : takings gaskings
+1.0 : orangs ourangs
+1.0 : makings maskings
+0.81 : gagers badgers
+0.81 : gagers taggers
+1.0 : gagers gaggers
+1.0 : misanthropes misanthropies
+1.0 : medaled medalled
+1.0 : proposing purposing
+1.0 : steamy streamy
+1.0 : steams streams
+1.0 : tended trended
+0.81 : gager tagger
+0.81 : gager badger
+1.0 : roux typic
+1.0 : roux topic
+1.0 : rout ryot
+0.81 : rout wud
+0.85 : rout sure
+1.0 : rout aahs
+0.81 : rout toph
+1.0 : rout root
+1.0 : rout typy
+1.0 : rout riot
+0.81 : gaskins takins
+1.0 : lumpier lumper
+1.0 : wagers waggers
+0.87 : weighing sighing
+0.87 : winned sinned
+1.0 : choiring courting
+1.0 : alow allow
+1.0 : alow aglow
+0.81 : hog hot
+1.0 : hog fud
+0.89 : now nos
+1.0 : nor noir
+0.85 : nor mid
+1.0 : nor mite
+1.0 : nor mire
+1.0 : were adds
+1.0 : were ads
+1.0 : tryouts trouts
+1.0 : drop drip
+0.87 : toddle risks
+1.0 : earrings earings
+1.0 : werwolves werewolves
+0.89 : owl peep
+1.0 : owe kaas
+1.0 : owe peer
+1.0 : owe kas
+1.0 : owe pier
+1.0 : hearting hearing
+1.0 : four die
+1.0 : four for
+1.0 : four dire
+0.8 : four cite
+0.85 : four did
+0.85 : four agha
+1.0 : outwit outwrit
+0.87 : sinking winking
+0.81 : brutish brutism
+0.81 : toddling godling
+0.8 : soave slave
+1.0 : coyed coed
+1.0 : coyed coted
+1.0 : coyed chored
+0.83 : coyed doted
+0.8 : bromic bromid
+0.87 : wicking sicking
+1.0 : reword equites
+1.0 : get cad
+1.0 : unmasker unmaker
+1.0 : typed toped
+1.0 : typed rows
+1.0 : types topes
+1.0 : couranto coranto
+1.0 : jingal jingall
+0.89 : wrought sought
+1.0 : throned thronged
+1.0 : rins ruins
+0.81 : rins fins
+0.81 : rins duma
+0.81 : shipper whippier
+0.81 : shipper whipper
+0.81 : shipped whipped
+1.0 : lunges lunes
+0.85 : trek dash
+1.0 : trek dam
+0.85 : trek dah
+1.0 : tree tee
+1.0 : tret pip
+1.0 : tret dad
+1.0 : spent sprent
+1.0 : gript fetor
+0.8 : tonneaus tonneaux
+1.0 : chording cording
+1.0 : hagadic haggadic
+1.0 : honouring honoring
+1.0 : dots doits
+0.83 : dots cots
+0.87 : doty queer
+1.0 : doty dotty
+0.83 : dote chore
+0.87 : dote sis
+0.83 : dote cote
+0.83 : dote core
+1.0 : dote doe
+0.83 : doth couth
+0.81 : gorses torses
+1.0 : levering leveeing
+0.85 : quire woof
+0.85 : quire quid
+0.89 : quire sour
+1.0 : quire quite
+0.89 : quirt airt
+0.89 : sod wood
+1.0 : sod ais
+0.87 : sod sore
+0.89 : sol wool
+1.0 : son aim
+0.89 : son won
+0.89 : sos sow
+0.89 : sos woos
+0.85 : sos sox
+0.89 : sos wos
+0.89 : sow wow
+1.0 : soy ait
+0.89 : soy quit
+1.0 : kaffirs kafirs
+1.0 : cutlas cutlass
+0.87 : oreads leads
+0.81 : baboon gaboon
+1.0 : reverting revetting
+1.0 : croppers cruppers
+0.9 : roans flans
+0.83 : dolts colts
+1.0 : spurts sports
+0.87 : wicker sicker
+0.87 : wicked sicked
+1.0 : jingalls jingals
+1.0 : savor savour
+1.0 : si do
+0.83 : si xi
+0.87 : si rip
+1.0 : sh too
+1.0 : sh yup
+1.0 : sh to
+1.0 : sh yip
+1.0 : sh wry
+1.0 : clangours clangors
+1.0 : tore toe
+1.0 : tore tote
+0.81 : tore gore
+1.0 : tori torii
+0.81 : tort firer
+1.0 : tors tours
+0.85 : torr toff
+0.81 : tory gory
+1.0 : carcases carcasses
+1.0 : calipering callipering
+1.0 : err wee
+1.0 : err aas
+1.0 : err we
+1.0 : oped opted
+1.0 : ers errs
+1.0 : bored views
+0.83 : coats doats
+0.87 : winters sinters
+1.0 : dolor dolour
+0.81 : babbles gabbles
+0.81 : babbler gabbler
+0.81 : filly rilly
+1.0 : ferial fetial
+1.0 : tenures tenues
+0.87 : sites wries
+0.87 : sites writes
+0.83 : sites chord
+0.83 : sites cord
+0.87 : sites wites
+1.0 : sites sires
+0.87 : sites wires
+0.87 : sited wired
+0.87 : sited wried
+0.83 : sited corf
+0.87 : sited wited
+1.0 : sited sired
+1.0 : mane mange
+1.0 : caring carting
+0.81 : whippings shippings
+0.87 : wiring siring
+0.81 : barbed garbed
+0.81 : shied whited
+1.0 : shies shires
+0.81 : shies whites
+1.0 : her vas
+0.85 : roes foes
+0.85 : roes fores
+1.0 : roes roues
+1.0 : roes rotes
+0.81 : baffs poyou
+0.81 : whir ague
+1.0 : roping riping
+1.0 : mask keep
+0.85 : mash may
+0.85 : mash hah
+1.0 : mass mas
+0.85 : mass pity
+0.85 : mass potty
+0.85 : mass ort
+1.0 : wavery wavey
+1.0 : liter lier
+1.0 : wriggly wiggly
+0.85 : harry marry
+0.83 : dodger codger
+1.0 : gulfs guls
+1.0 : curring curing
+1.0 : chields chiels
+1.0 : caroming carroming
+0.81 : glowing blowing
+0.85 : matres hates
+1.0 : matres mates
+1.0 : pilafs pilaffs
+1.0 : dieing dieting
+1.0 : haviors haviours
+0.81 : finks rinks
+0.81 : blueing glueing
+0.85 : harrow harls
+0.85 : harrow marrow
+1.0 : steamiest streamiest
+0.85 : found round
+0.83 : doses choses
+0.87 : doses eroses
+0.83 : doses coses
+1.0 : toping typing
+0.87 : sitting witing
+1.0 : sitting siting
+0.87 : sitting writing
+1.0 : rooted rioted
+0.87 : rooted fled
+1.0 : rooter rioter
+0.87 : rooter fleer
+0.85 : rooter foyer
+1.0 : jet bad
+0.81 : jet gad
+0.81 : jeu gag
+0.81 : jeu bat
+1.0 : jeu bag
+1.0 : jee baa
+1.0 : cruises crises
+1.0 : writes wries
+1.0 : writes wites
+0.87 : writes sires
+1.0 : writes wires
+1.0 : writer wirer
+1.0 : writer wrier
+0.81 : bannet gannet
+1.0 : spirits sprits
+1.0 : cassinos casinos
+1.0 : baring barring
+1.0 : swaged swagged
+1.0 : swager swagger
+1.0 : tipis topis
+1.0 : hopers hoopers
+1.0 : hopers hoppers
+0.81 : euro duro
+0.89 : zaires sword
+1.0 : lories lorries
+1.0 : partying parrying
+1.0 : spring spiring
+1.0 : spring spurring
+1.0 : inthrall inthral
+1.0 : kavas kavass
+0.85 : didos eidos
+1.0 : slopping sloping
+1.0 : odor odour
+1.0 : kafir kaffir
+0.85 : rob fob
+1.0 : ut poi
+1.0 : ut da
+1.0 : ut pi
+1.0 : up aff
+1.0 : up tui
+1.0 : up wet
+1.0 : up ti
+0.85 : us put
+0.85 : us our
+0.85 : us ha
+0.85 : us pit
+0.85 : us pot
+1.0 : us ya
+1.0 : storing storying
+0.81 : rinning finning
+0.87 : oyers leers
+0.81 : gleet blet
+1.0 : wipe aals
+0.9 : wipe spue
+1.0 : wipe alls
+0.83 : copter doper
+1.0 : copter choppier
+1.0 : copter chopper
+1.0 : copter copier
+1.0 : copter copper
+1.0 : copter coper
+1.0 : casino cassino
+1.0 : gelds gels
+1.0 : fits dura
+1.0 : inures injures
+1.0 : aff tui
+1.0 : aff wet
+1.0 : aff ti
+1.0 : tonger toner
+0.81 : tonger goner
+1.0 : snouty snotty
+1.0 : snouts snots
+1.0 : choses coses
+1.0 : recept receipt
+1.0 : stokers stookers
+0.81 : goner toner
+1.0 : mete metre
+1.0 : scrapies scrapes
+1.0 : put our
+1.0 : put ha
+1.0 : put pit
+1.0 : put pot
+0.85 : put ya
+1.0 : awee awe
+1.0 : awee seer
+1.0 : pettier prettier
+0.83 : cogging dogging
+0.85 : noir mid
+1.0 : noir mite
+1.0 : noir mire
+0.81 : gallying tallying
+0.8 : chateaus chateaux
+0.81 : basted gasted
+0.85 : hajj keto
+0.87 : haji hank
+1.0 : haji hadji
+1.0 : haji hajji
+1.0 : sanger saner
+0.85 : marsh harsh
+1.0 : pein pterin
+0.83 : coffs doffs
+1.0 : lupus lupous
+0.81 : shacks whacks
+0.85 : asked quired
+0.87 : sises wises
+1.0 : baryte barye
+1.0 : sepalled sepaled
+1.0 : humors humours
+1.0 : whopping whooping
+0.81 : whopping shopping
+0.81 : rifer fifer
+0.89 : shoppe agios
+1.0 : compute compote
+0.81 : townsmen gownsmen
+1.0 : tabour tabor
+1.0 : rep repp
+0.81 : tagging gaging
+1.0 : red pol
+0.81 : shinnying whinnying
+1.0 : receipts recepts
+0.83 : congee donee
+0.81 : talipot galipot
+0.81 : talipot gallipot
+0.83 : cowries dowries
+1.0 : cuties cutties
+1.0 : enamor enamour
+1.0 : thegn then
+1.0 : sandaling sandalling
+1.0 : crepiest creepiest
+0.8 : adieux adieus
+1.0 : sameks samekhs
+0.83 : doped cooped
+0.83 : doped coopted
+0.83 : doped copied
+0.83 : doped chopped
+0.83 : doped copped
+0.83 : doped coped
+0.83 : dopey coppery
+0.83 : dopes copes
+0.83 : dopes copies
+0.83 : doper choppier
+0.83 : doper chopper
+0.83 : doper copier
+0.83 : doper copper
+0.83 : doper coper
+0.81 : gores toes
+0.81 : gores tores
+0.81 : gores totes
+0.81 : gored toted
+0.81 : gored toyed
+0.87 : gored bled
+0.81 : gored tooted
+0.81 : gobies tobies
+1.0 : covering coveting
+0.81 : gaud baud
+1.0 : bringers briners
+1.0 : wo woo
+0.89 : wo so
+0.81 : ogrish ogrism
+0.8 : foes voes
+1.0 : foes fores
+0.8 : foes votes
+0.85 : foes roues
+0.85 : foes rotes
+0.81 : brag brat
+0.81 : gable table
+0.81 : garnishing tarnishing
+1.0 : topical typical
+1.0 : wealds weals
+0.89 : aim won
+0.8 : voes fores
+1.0 : voes votes
+0.89 : aid woof
+0.89 : aid quid
+0.85 : aid sour
+1.0 : moping mopping
+1.0 : atopic atypic
+0.85 : eying ding
+1.0 : view bore
+0.87 : view vis
+1.0 : charing charting
+0.81 : plenism plenish
+0.85 : eight dight
+0.85 : hazers mazers
+0.81 : fibbers ribbers
+1.0 : topped tupped
+1.0 : topper tippier
+0.83 : doits cots
+1.0 : teeing treeing
+0.83 : cobbers dobbers
+1.0 : crappier crapper
+1.0 : wolfs wolds
+1.0 : wolfs wools
+0.89 : wolfs sols
+1.0 : cutey virtu
+0.8 : reseaus reseaux
+1.0 : worshiped worshipped
+0.81 : irone krone
+1.0 : worshiper worshipper
+0.81 : jingoism jingoish
+0.85 : quay quash
+0.85 : haslets mallets
+1.0 : quag wish
+1.0 : siping sipping
+1.0 : snottiest snoutiest
+0.87 : aura writs
+1.0 : aura sits
+1.0 : sadly sally
+1.0 : ruby yoni
+0.81 : toby goby
+1.0 : petter peter
+1.0 : paliest palliest
+0.8 : cisco disco
+1.0 : knouts knots
+0.89 : wold sold
+1.0 : earring earing
+0.85 : yammerer hammerer
+0.8 : soakers slakers
+1.0 : arises arrises
+1.0 : cheeros cheerios
+0.9 : laves oaves
+1.0 : laver laveer
+0.81 : toys goys
+0.85 : mazard hazard
+1.0 : agraffes agrafes
+1.0 : maffias mafias
+0.83 : conation donation
+1.0 : ye it
+1.0 : ye piu
+1.0 : ye fa
+1.0 : ye tew
+0.81 : ifs outre
+0.85 : hales males
+1.0 : signaling signalling
+0.81 : droit serif
+1.0 : dialists diallists
+0.85 : mack hack
+1.0 : wriggle wiggle
+1.0 : hadjes hajjes
+1.0 : hadjes hajes
+1.0 : totalling totaling
+1.0 : totting touting
+1.0 : totting tooting
+1.0 : totting toting
+1.0 : totting toiting
+1.0 : stopes stipes
+1.0 : stopes stupes
+1.0 : spotting spitting
+1.0 : spotting spiting
+1.0 : yowe upper
+1.0 : look dees
+1.0 : loop lop
+1.0 : loop deer
+1.0 : kepping keeping
+1.0 : marrons maroons
+0.87 : chore xis
+1.0 : chore cote
+0.87 : chore cod
+1.0 : chore core
+0.83 : chore doe
+1.0 : chord cord
+0.83 : chord sires
+1.0 : longers loners
+0.81 : shirred whirred
+0.87 : resole resold
+1.0 : microscopies microscopes
+1.0 : lingers liners
+1.0 : step strep
+1.0 : stew fur
+1.0 : stew hoy
+1.0 : stew dye
+1.0 : stew git
+0.9 : lasts oasts
+1.0 : toppled tippled
+0.81 : shine whine
+0.81 : shins whins
+0.81 : shiny whiny
+0.85 : hares mares
+1.0 : vavasor vavasour
+0.89 : sounded wounded
+0.83 : cod sis
+1.0 : cod xis
+0.87 : cod cote
+0.87 : cod core
+0.83 : cozened dozened
+0.83 : brooch broody
+0.83 : brooch verist
+0.87 : win sin
+0.87 : wit sit
+1.0 : wit writ
+0.87 : wis sis
+1.0 : wis qua
+0.85 : wiz eros
+1.0 : choppier chopper
+1.0 : choppier copier
+1.0 : choppier copper
+1.0 : choppier coper
+0.8 : iodic iodid
+1.0 : bronchos broncos
+0.81 : skirr skiff
+1.0 : skirt adjurer
+0.87 : skirt clotty
+1.0 : rickety rickey
+1.0 : lopers loopers
+1.0 : gingal gingall
+1.0 : beadle beagle
+1.0 : sulfureted sulfuretted
+0.81 : shinnied whinnied
+0.8 : vox fox
+1.0 : scalds scalls
+1.0 : passe pase
+0.81 : based gassed
+1.0 : tire your
+1.0 : tire tie
+0.8 : fores votes
+0.85 : fores roues
+0.85 : fores rotes
+0.85 : tiro tirl
+0.85 : rash ram
+1.0 : rash rah
+0.85 : rash ray
+0.81 : baser gasser
+0.81 : bases gasses
+0.89 : sowing wowing
+1.0 : melds mels
+0.87 : melds meow
+1.0 : bayoneted bayonetted
+0.81 : sark sari
+0.85 : yay yah
+0.87 : wills sills
+0.85 : yam yah
+0.81 : sprat sprag
+1.0 : hyte kit
+0.83 : collied dollied
+0.87 : leer oyer
+0.87 : leer port
+0.81 : fids rids
+0.87 : naperies japeries
+1.0 : dupping duping
+1.0 : wrigglers wigglers
+1.0 : vrouw vrow
+0.89 : vrouw ceria
+0.81 : mitre buds
+1.0 : lager laager
+1.0 : spriest sportiest
+1.0 : creepies crepes
+1.0 : neutral neural
+1.0 : morns mourns
+1.0 : rumors rumours
+0.81 : gloating bloating
+1.0 : tupping topping
+1.0 : tupping tipping
+0.85 : mawing hawing
+1.0 : tittuping tittupping
+0.85 : hanses manses
+0.87 : wights sights
+1.0 : wights wrights
+0.81 : badging gaging
+1.0 : dottier dotier
+0.81 : banger ganger
+0.81 : banged ganged
+1.0 : banged baned
+1.0 : curites curries
+1.0 : curites curies
+1.0 : awry gyp
+1.0 : ureic uretic
+0.81 : fitters ritters
+0.81 : glumes blumes
+0.89 : sounding wounding
+0.87 : sinker winker
+0.85 : smacks whacks
+1.0 : pets poets
+1.0 : riffling rifling
+1.0 : laveers lavers
+0.81 : riles files
+1.0 : regretted regreeted
+0.85 : say trio
+0.85 : say sash
+1.0 : spiling spoiling
+1.0 : teargases teargasses
+0.85 : fakes requites
+1.0 : ouph treys
+1.0 : gormand gourmand
+0.81 : kif jute
+1.0 : kif log
+0.81 : kif lot
+0.85 : kid kite
+1.0 : broody verist
+0.81 : gogglers togglers
+1.0 : cwms vend
+0.85 : roiled foiled
+0.83 : chowed dowed
+1.0 : chowed cowed
+0.81 : ribs fibs
+1.0 : cones conges
+0.81 : gland bland
+1.0 : tepid trepid
+1.0 : droshky drosky
+1.0 : mooted moored
+0.85 : mashing hashing
+1.0 : pewters powters
+1.0 : adds ads
+0.81 : bass gas
+1.0 : bass bas
+1.0 : bass jeer
+0.85 : ays wud
+0.81 : ays sure
+0.85 : ays toph
+1.0 : escalop escallop
+0.85 : mas pity
+0.85 : mas potty
+0.85 : mas ort
+0.81 : mat mag
+0.85 : mat hat
+0.85 : mae hae
+1.0 : mad keet
+0.85 : mag potto
+0.87 : man keto
+1.0 : scarrier scarier
+0.81 : tale gale
+0.81 : tala gala
+0.81 : tall gal
+0.81 : tall gall
+0.9 : tall tao
+1.0 : arrows stiped
+1.0 : arrows stoped
+1.0 : ors ours
+1.0 : cough chough
+0.85 : orc kex
+1.0 : ora pits
+1.0 : ora puts
+1.0 : ora pots
+1.0 : wariest wartiest
+0.81 : basify gasify
+1.0 : eyer titty
+0.83 : douching couching
+0.85 : bash bay
+1.0 : bash bah
+1.0 : roster rooster
+0.85 : roster foster
+1.0 : callipees calipees
+1.0 : murrine murine
+0.87 : shod shoe
+0.87 : shod shore
+0.87 : shod shote
+0.83 : coital dotal
+0.89 : vrow ceria
+0.85 : malted halted
+1.0 : profs proofs
+1.0 : garote garrote
+1.0 : outwriting outwitting
+1.0 : kaas peer
+1.0 : kaas kas
+1.0 : kaas pier
+0.85 : mammock hammock
+1.0 : creeper crepier
+1.0 : creeper creepier
+0.81 : crab crag
+1.0 : womeras woomeras
+1.0 : grid feus
+1.0 : grid fetus
+1.0 : kakis khakis
+1.0 : wagoning waggoning
+0.87 : jabbing nabbing
+1.0 : saviors saviours
+0.81 : fairish fairyism
+1.0 : prism porism
+0.81 : goy wye
+0.81 : goy wyte
+0.81 : goy toy
+1.0 : stiped stoped
+0.87 : drupe sels
+1.0 : drupe serow
+1.0 : eye tit
+1.0 : eye eyre
+1.0 : comparing comparting
+0.81 : goads toads
+1.0 : rifler riffler
+1.0 : rifles riffles
+1.0 : winged wined
+0.87 : winged singed
+1.0 : winged wringed
+1.0 : rifled riffled
+0.89 : fairing requiring
+0.81 : ironer kroner
+0.83 : dowing cowing
+0.83 : dowing chowing
+0.83 : dons cons
+0.87 : dons eons
+0.83 : done cone
+0.8 : plateaux plateaus
+1.0 : dah dash
+0.85 : dah dam
+0.85 : dah day
+1.0 : toot toit
+0.81 : toot gout
+1.0 : toot aga
+0.81 : toot dure
+0.81 : toot due
+1.0 : toot tot
+1.0 : canvassing canvasing
+1.0 : ruin rin
+0.87 : sild wild
+1.0 : sild auks
+0.85 : haded madded
+1.0 : faggots fagots
+1.0 : caked casked
+0.83 : cowers dowers
+1.0 : dropping dripping
+0.81 : gay bay
+0.81 : gat gag
+0.81 : gat bat
+0.81 : gat tat
+0.81 : gas bas
+0.81 : gas tas
+0.81 : gas tass
+0.81 : gas jeer
+0.81 : gap tap
+0.81 : gam tam
+0.81 : gal bal
+1.0 : gal gall
+1.0 : matings mattings
+0.81 : gag gab
+0.81 : gag bag
+0.81 : gag tag
+0.81 : gae phi
+0.81 : gae tae
+0.81 : gad bad
+0.81 : gad tad
+0.81 : gab tab
+0.85 : day dash
+1.0 : purpose propose
+0.81 : toit gout
+1.0 : toit aga
+0.81 : toit dure
+0.81 : toit due
+1.0 : toit tot
+0.87 : sighless wigless
+0.83 : coir sire
+0.83 : coir dour
+0.83 : coir site
+0.83 : coir dor
+1.0 : coir choir
+1.0 : laders ladders
+0.81 : tabbing gabbing
+0.81 : kirk lotto
+0.85 : maying haying
+1.0 : stipe stope
+1.0 : stipe stupe
+1.0 : basseted bassetted
+0.81 : tench trendy
+1.0 : wiggled wriggled
+1.0 : wiggler wriggler
+1.0 : wiggles wriggles
+0.81 : shew whew
+0.87 : silted wilted
+1.0 : loury lory
+1.0 : loury lorry
+1.0 : pedaled pedalled
+0.8 : diverts civets
+0.85 : mats hats
+0.85 : math hath
+0.85 : hanked yanked
+1.0 : hajjs hadjs
+0.87 : hajji hank
+1.0 : hajji hadji
+0.89 : cowry cosh
+0.83 : cowry dowry
+1.0 : cowry cowy
+1.0 : typier toper
+1.0 : spitter sputter
+1.0 : spitter spotter
+1.0 : spitted spotted
+1.0 : labouring laboring
+1.0 : tempters tempers
+1.0 : mortises morrises
+1.0 : droppers drippers
+1.0 : lobs kiva
+1.0 : lutes lures
+1.0 : luted lured
+1.0 : khamsin kamsin
+0.87 : wrings sings
+1.0 : wrings wings
+0.87 : jagging nagging
+1.0 : uit tye
+1.0 : whippier whipper
+1.0 : spitting spiting
+1.0 : rivalling rivaling
+1.0 : wye wyte
+1.0 : wye toy
+1.0 : casette cassette
+0.81 : garrets barrets
+0.81 : ribbed fibbed
+1.0 : jettying jetting
+0.81 : ribber fibber
+0.85 : haddest maddest
+1.0 : balas balsas
+0.81 : balas galas
+0.81 : garters barters
+1.0 : quippu quipu
+0.87 : widdled sidled
+1.0 : aas wee
+1.0 : aas we
+0.81 : galling baling
+0.83 : coffers doffers
+0.89 : wound sound
+1.0 : trenail tenail
+1.0 : stagier staggier
+1.0 : moped mopped
+1.0 : tsks raja
+1.0 : yipe tow
+0.81 : goiter touter
+1.0 : pedestalled pedestaled
+0.85 : yank hank
+1.0 : peins pterins
+0.81 : bluing gluing
+0.81 : gabble babble
+0.85 : kelp hank
+1.0 : belabour belabor
+1.0 : petting prettying
+0.8 : ditty city
+1.0 : spues spies
+0.9 : spues wipes
+0.8 : fogie vogie
+1.0 : pyes pies
+0.85 : hams yams
+0.8 : cleric clerid
+0.81 : ridges fidges
+1.0 : cooped coopted
+1.0 : cooped copied
+1.0 : cooped chopped
+1.0 : cooped copped
+1.0 : cooped coped
+1.0 : coop cop
+1.0 : coop chop
+0.85 : malt halt
+0.9 : aals spue
+1.0 : aals alls
+1.0 : metalled metaled
+0.8 : vitric virid
+0.85 : mauls hauls
+1.0 : humour humor
+1.0 : ayes surd
+0.81 : hotly stabs
+1.0 : pitiers puttiers
+0.8 : cyanid cyanic
+0.83 : chotts sirra
+0.83 : coting doting
+0.83 : coting dotting
+1.0 : swine swinge
+1.0 : peddler pedler
+0.83 : cope dope
+1.0 : cops coops
+1.0 : cops chops
+0.9 : oats lats
+0.9 : oath lath
+0.81 : biff mott
+0.81 : biff birr
+1.0 : cutlases cutlasses
+1.0 : pow la
+1.0 : pot our
+1.0 : pot ha
+1.0 : pot pit
+0.85 : pot ya
+1.0 : pop ewe
+1.0 : poi da
+1.0 : poi pi
+1.0 : fagoted faggoted
+1.0 : biotypes biotopes
+1.0 : drys seta
+0.81 : ranch randy
+1.0 : mouthiest mothiest
+1.0 : basinets bassinets
+1.0 : choirs coirs
+0.83 : choirs dors
+1.0 : ladies laddies
+0.81 : ribbing fibbing
+0.81 : kroon iron
+0.81 : gars bars
+0.81 : shires whites
+1.0 : medaling medalling
+1.0 : all wop
+1.0 : all aal
+0.87 : ale quote
+0.81 : alb quoit
+0.9 : ala spew
+0.81 : alt quoit
+1.0 : reinjure retinue
+0.87 : nabs jabs
+0.81 : tags gags
+0.85 : masting hasting
+1.0 : moufflons mouflons
+1.0 : quires word
+0.89 : quires sord
+0.81 : goad toad
+0.9 : goat blat
+1.0 : profiter profiteer
+1.0 : crimpier crimper
+0.81 : dwarfish dwarfism
+1.0 : wainscoting wainscotting
+1.0 : callipers calipers
+1.0 : feet lip
+1.0 : feet fet
+0.8 : soaps slaps
+0.85 : hangs yangs
+1.0 : lottos lotos
+1.0 : spiry sporty
+1.0 : spiry spurry
+1.0 : spiry spry
+1.0 : typos topos
+1.0 : oyer port
+0.81 : toters goers
+1.0 : toters tooters
+1.0 : canvasses canvases
+1.0 : canvasser canvaser
+0.83 : doers corers
+1.0 : doers doters
+0.85 : rotl dirk
+0.81 : rotl roto
+1.0 : negatons negations
+1.0 : gibbeting gibbering
+1.0 : clots clouts
+1.0 : parlor parlour
+0.83 : congees donees
+0.85 : purls prow
+1.0 : flited flied
+1.0 : flites flies
+0.83 : sis six
+0.83 : sis xis
+0.87 : sis qua
+0.83 : sis doc
+0.87 : sis doe
+1.0 : sir doit
+0.87 : sir ropy
+0.81 : sir dog
+1.0 : sir dot
+0.83 : sir cot
+0.87 : sit writ
+0.83 : sit coy
+1.0 : six doc
+1.0 : sib dom
+0.87 : sim eon
+0.83 : sim con
+0.83 : sim chon
+1.0 : sim don
+0.81 : gamps tamps
+0.81 : tabby gabby
+0.81 : rowdyism rowdyish
+0.89 : zaire depot
+1.0 : preying preeing
+1.0 : preying peeing
+1.0 : preying pieing
+1.0 : taboring tabouring
+1.0 : exporting expiring
+0.81 : rites fires
+0.81 : rites gourd
+0.83 : cozen dozen
+1.0 : manges manes
+1.0 : unmeet unmet
+0.81 : glister blister
+1.0 : writhed withed
+1.0 : weens wens
+0.89 : avow avos
+1.0 : aper apter
+1.0 : waly wally
+0.81 : soph soppy
+0.83 : collar dollar
+1.0 : dorty dory
+1.0 : riveted rivetted
+0.81 : totty gouty
+0.81 : gabled tabled
+1.0 : unmasking unmaking
+1.0 : linger liner
+0.87 : sighting weighting
+0.83 : cocker docker
+0.87 : van hero
+0.87 : vau hero
+0.85 : made hade
+1.0 : riflers rifflers
+0.81 : bating gating
+1.0 : lory lorry
+1.0 : lord kites
+1.0 : nigh crass
+1.0 : tired tied
+1.0 : tires ties
+0.81 : fingers ringers
+0.81 : fingers ruiners
+1.0 : here vasa
+1.0 : tipples topples
+0.87 : swan desk
+1.0 : holp fuji
+0.87 : hole hold
+1.0 : dot doit
+0.87 : dot ropy
+0.81 : dot dog
+0.83 : dot cot
+0.87 : hod hoe
+0.81 : hot fud
+1.0 : hop sty
+1.0 : hop art
+1.0 : hoy fur
+1.0 : hoy dye
+1.0 : hoy git
+1.0 : loopier lopper
+1.0 : loopier loper
+1.0 : loopier looper
+1.0 : loopier loppier
+1.0 : proettes pirouettes
+0.81 : scute scud
+0.81 : whin shin
+0.85 : whid white
+0.81 : whit shit
+1.0 : borne bourne
+1.0 : trending tending
+0.87 : xis cote
+0.87 : xis core
+0.85 : foamed roamed
+1.0 : spitters sputters
+1.0 : spitters spotters
+1.0 : kamseens khamseens
+0.81 : busy bush
+0.81 : riled filed
+1.0 : outrivalling outrivaling
+0.83 : coles doles
+0.85 : hammer yammer
+1.0 : pity potty
+1.0 : pity ort
+1.0 : pits puts
+1.0 : pits pots
+0.85 : asker wort
+1.0 : vialled vialed
+0.85 : mates hates
+1.0 : preachy peachy
+1.0 : camas camass
+1.0 : trey daff
+1.0 : stooked stoked
+1.0 : dotes does
+0.83 : dotes cotes
+0.83 : dotes chores
+1.0 : doter doer
+0.83 : doter coyer
+1.0 : diallers dialers
+0.85 : roof did
+0.85 : roof agha
+0.87 : axel scrip
+0.81 : gasting basting
+1.0 : root ryot
+0.81 : root wud
+0.85 : root sure
+1.0 : root aahs
+0.81 : root toph
+1.0 : root typy
+1.0 : root riot
+0.85 : mauled hauled
+0.85 : mapper happier
+0.81 : bassy gassy
+0.83 : cower dower
+1.0 : aahing ashing
+0.83 : cowed dowed
+1.0 : pulper pulpier
+0.81 : shipworms whipworms
+0.87 : note nod
+0.87 : note mis
+0.81 : whoopers shoppers
+1.0 : sall sal
+0.81 : slot slog
+0.81 : gapeworms tapeworms
+0.81 : wud ryot
+0.81 : wud aahs
+1.0 : wud toph
+0.81 : wud typy
+0.81 : wud riot
+0.87 : silts wilts
+1.0 : basinet bassinet
+0.81 : jute log
+1.0 : jute lot
+1.0 : challahs chalahs
+0.81 : gan tan
+1.0 : reverts revets
+1.0 : charriest chariest
+1.0 : nook zees
+1.0 : power lad
+0.8 : mick midi
+1.0 : scandalled scandaled
+1.0 : puslike pusslike
+0.85 : maars haars
+0.81 : ruining fining
+1.0 : coping copping
+0.81 : blued glued
+0.81 : bluey gluey
+0.81 : blues glues
+0.81 : bluer gluer
+1.0 : bima mons
+0.85 : vireo cusk
+0.87 : erose dose
+0.81 : gasket basket
+0.81 : glout blot
+1.0 : profiters profiteers
+0.81 : gaby baby
+0.81 : gabs tabs
+0.81 : rives fives
+0.81 : river fiver
+0.81 : rite wha
+1.0 : rite tour
+1.0 : rite tor
+0.81 : rite fire
+0.85 : rite rid
+1.0 : vrooms ceiba
+0.87 : sighlike wiglike
+1.0 : teopans trepans
+1.0 : embrue embrute
+0.85 : maters haters
+1.0 : tabours tabors
+1.0 : gimbaling gimballing
+1.0 : feus fetus
+0.81 : aga gout
+0.81 : aga dure
+0.81 : aga due
+1.0 : aga tot
+0.87 : reshoe reshod
+1.0 : unrivalled unrivaled
+0.87 : ods pore
+0.87 : ods pure
+1.0 : coops chops
+1.0 : patroons patrons
+1.0 : pettiest prettiest
+1.0 : purposes proposes
+1.0 : courtiers couriers
+1.0 : waded wadded
+1.0 : ow pie
+1.0 : ow pe
+1.0 : ow pye
+0.87 : nailing jailing
+0.8 : aboideaus aboideaux
+0.8 : satyric satyrid
+0.85 : haven maven
+1.0 : tups tops
+1.0 : tups tips
+0.85 : hawing yawing
+1.0 : jalopies jaloppies
+0.81 : riches fiches
+1.0 : puff pouff
+1.0 : pourer pouter
+1.0 : fury furry
+1.0 : alfas algas
+1.0 : alfas alas
+1.0 : qintars quintars
+1.0 : cuss boff
+1.0 : pries pyrites
+1.0 : puts pots
+1.0 : nippier nipper
+1.0 : quiring quirting
+0.89 : quiring airing
+0.87 : eon don
+0.8 : voter foyer
+0.8 : unsoaked unslaked
+0.85 : haggis yagis
+1.0 : fadged fagged
+0.87 : tole told
+0.81 : told gold
+1.0 : toped rows
+0.85 : ryot sure
+1.0 : ryot aahs
+0.81 : ryot toph
+1.0 : ryot typy
+1.0 : ryot riot
+1.0 : scary scarry
+1.0 : swaggers swagers
+0.89 : word sord
+0.89 : worn sorn
+1.0 : galipot gallipot
+1.0 : wriggling wiggling
+0.87 : wilting silting
+0.81 : gangly tangly
+0.87 : with sith
+1.0 : stippling stoppling
+1.0 : stooker stoker
+0.85 : hacking yacking
+0.85 : yaffs haafs
+1.0 : prests pests
+1.0 : steak streak
+1.0 : steam stream
+1.0 : carotin caryotin
+1.0 : carotin carrotin
+1.0 : ill eff
+0.81 : ducted eructed
+1.0 : sting stying
+0.81 : goggled toggled
+0.81 : goggler toggler
+0.81 : goggles toggles
+1.0 : piassaba piasaba
+1.0 : bioscopes bioscopies
+1.0 : injuring inuring
+1.0 : winkling wrinkling
+0.83 : codgers dodgers
+1.0 : ropier roper
+0.81 : gapping tapping
+1.0 : jalopy jaloppy
+0.85 : malled haled
+1.0 : regret regreet
+0.9 : wept spot
+0.85 : smackers whackers
+1.0 : grippier gripper
+0.85 : mackling hackling
+1.0 : hiccuping hiccupping
+1.0 : diva fobs
+1.0 : outwearing outwearying
+0.8 : manteaus manteaux
+1.0 : zag hyp
+1.0 : balds balls
+0.81 : balds galls
+1.0 : balds baals
+0.81 : balds gals
+0.85 : chads dyads
+0.8 : slaves soaves
+1.0 : slavey slavery
+0.81 : filing riling
+0.83 : sierra courts
+1.0 : pinery piney
+0.87 : skew ansa
+1.0 : sashes sadhes
+0.85 : fosters rosters
+0.85 : fosters roosters
+1.0 : topoi tipi
+0.85 : topoi fou
+1.0 : topoi topi
+1.0 : staging stagging
+1.0 : outshout outshot
+1.0 : aye dit
+1.0 : aye foy
+1.0 : gums hind
+1.0 : your tie
+1.0 : poured pouted
+1.0 : snoopier snooper
+1.0 : yod tis
+0.87 : yod yore
+1.0 : yod tuis
+1.0 : lopper loper
+1.0 : lopper looper
+1.0 : lopper loppier
+1.0 : porisms purisms
+1.0 : porisms prisms
+1.0 : hoopoes hopes
+1.0 : silds silks
+0.87 : silds wilds
+0.81 : fiat gosh
+0.85 : keir hahs
+0.81 : baffing gaffing
+0.85 : hoorah hooray
+1.0 : disklike dislike
+1.0 : sloops slops
+0.83 : miss buzz
+1.0 : schlepps schleps
+1.0 : enamouring enamoring
+0.85 : lid lie
+0.85 : lid lire
+1.0 : lie lire
+0.81 : targets gargets
+1.0 : lip fet
+0.83 : domal comal
+1.0 : hadjis hajjis
+1.0 : garottes garrottes
+0.81 : bagmen gagmen
+1.0 : teetotaling teetotalling
+0.81 : taluses galluses
+1.0 : automations automatons
+1.0 : bots bouts
+0.87 : nape jape
+1.0 : mib nom
+1.0 : comping chomping
+1.0 : scouring scoring
+1.0 : hatting hating
+0.85 : hatting matting
+0.85 : hatting mating
+1.0 : tippers toppers
+1.0 : lasses lases
+0.8 : bureaus bureaux
+0.81 : amateurish amateurism
+0.81 : nab nag
+0.87 : nab jab
+0.87 : nab pork
+0.81 : nab leu
+0.87 : nag jagg
+1.0 : nag leu
+0.87 : nag puri
+0.87 : nag jag
+0.87 : nay jay
+0.85 : nay lei
+0.83 : doer coyer
+0.83 : does cotes
+0.83 : does chores
+1.0 : allodial alodial
+1.0 : nett net
+0.87 : japery napery
+1.0 : quoting quoiting
+1.0 : weirdy quest
+0.87 : singing wringing
+1.0 : daks rewrote
+0.87 : wines singes
+1.0 : winey winery
+0.87 : wined singed
+1.0 : wined wringed
+0.9 : oater later
+1.0 : singe sine
+0.89 : awl seep
+1.0 : awe seer
+0.87 : winner sinner
+1.0 : career carer
+1.0 : treat teat
+1.0 : pappus pappous
+0.8 : parotid parotic
+0.81 : tapped gapped
+1.0 : upstaring upstarting
+0.81 : glazing blazing
+0.81 : dui etui
+1.0 : dui goop
+0.81 : dud gout
+0.81 : dud dure
+0.81 : dud due
+1.0 : due gout
+1.0 : due dure
+0.81 : due tot
+1.0 : prole pyrrole
+1.0 : enamours enamors
+1.0 : abattis abatis
+0.8 : cither dither
+1.0 : appal appall
+1.0 : piety prey
+0.81 : gonged toned
+0.81 : gonged tonged
+1.0 : crispest crispiest
+0.89 : calx calls
+1.0 : wallies walies
+1.0 : gossiping gossipping
+1.0 : strop strip
+0.87 : quod quote
+1.0 : buffeting buffering
+1.0 : lotting louting
+1.0 : zebrass zebras
+1.0 : dour sire
+0.87 : dour write
+1.0 : dour site
+1.0 : dour dor
+0.83 : dour choir
+0.87 : dour wire
+0.81 : rinds finds
+0.85 : mayings hayings
+0.81 : tallows gallows
+1.0 : retire retie
+1.0 : stepping steeping
+0.81 : bat bag
+1.0 : nogg miff
+0.81 : bar gar
+1.0 : bas jeer
+0.85 : bay bah
+0.81 : bal gall
+1.0 : herring herrying
+0.85 : sulfid sulfite
+1.0 : wagoner waggoner
+1.0 : wagoned waggoned
+1.0 : tittupped tittuped
+0.87 : purs lea
+1.0 : polypus polypous
+1.0 : revet revert
+1.0 : super supper
+1.0 : sprites spurries
+0.81 : sheets whets
+1.0 : staged stagged
+1.0 : stager stagger
+1.0 : dites ford
+0.8 : dites cites
+1.0 : dites dies
+0.81 : tosh gosh
+0.89 : tosh towy
+0.83 : docketing cockering
+0.85 : yapping happing
+1.0 : hajjes hajes
+0.87 : wore wood
+1.0 : wore woe
+0.89 : wore sore
+0.8 : dim von
+1.0 : dim fon
+1.0 : dim sub
+1.0 : die for
+1.0 : die dire
+0.8 : die cite
+0.85 : die did
+0.85 : die agha
+1.0 : dig foh
+1.0 : dit foy
+1.0 : favour favor
+0.89 : wort airer
+0.89 : wort sort
+1.0 : wrigglier wigglier
+0.81 : wair waif
+0.81 : alts quoits
+0.87 : sinkers winkers
+0.81 : shorting whoring
+1.0 : shorting shoring
+0.81 : ganged baned
+0.83 : doltish coltish
+1.0 : fliting flitting
+0.85 : giro girl
+1.0 : bogle boggle
+0.9 : spier wiper
+0.9 : spies wipes
+0.81 : whims shims
+1.0 : choughs coughs
+0.83 : choughs doughs
+1.0 : transpiring transporting
+0.85 : fash fay
+1.0 : fash yeti
+1.0 : las lass
+1.0 : las pewee
+0.81 : tongers goners
+1.0 : pesters presters
+1.0 : leets lets
+0.85 : requiters fakeers
+1.0 : kook sees
+1.0 : signaled signalled
+0.85 : mare hare
+0.85 : marl harl
+0.85 : mark hark
+0.85 : mart hart
+1.0 : griping groping
+0.81 : bags gags
+1.0 : commandeers commanders
+0.8 : bijous bijoux
+0.85 : fondue rondure
+1.0 : awing aweing
+1.0 : mouthier mothier
+0.81 : whiter shier
+0.81 : paganism paganish
+1.0 : corse course
+1.0 : imbrue imbrute
+0.87 : sicks wicks
+0.85 : eringo dingo
+1.0 : vigors vigours
+0.8 : hydrid hydric
+1.0 : ladling lalling
+1.0 : tarting tarring
+1.0 : tarting taring
+0.85 : rounder founder
+1.0 : swamper swampier
+1.0 : compted comped
+1.0 : caryotins carotins
+1.0 : caryotins carrotins
+0.83 : choppiness dopiness
+1.0 : flute flue
+0.81 : fins ruins
+1.0 : fins duma
+0.81 : find rind
+0.85 : madding hading
+0.83 : coughs doughs
+1.0 : liers liters
+0.83 : dobby cobby
+0.81 : basts gasts
+0.87 : adjurer clotty
+0.81 : glume blume
+1.0 : misbiassed misbiased
+1.0 : misbiasses misbiases
+0.85 : mailers hailers
+1.0 : crispier crisper
+1.0 : crepier creepier
+1.0 : pilaf pilaff
+0.85 : haps yaps
+1.0 : hoped hopped
+1.0 : caryotin carrotin
+0.81 : gallus talus
+1.0 : hoper hopper
+1.0 : valors valours
+1.0 : lye lyre
+0.81 : priggish priggism
+1.0 : delfs dels
+0.87 : zoea spurs
+1.0 : moue mote
+0.87 : moue mod
+0.87 : moue bis
+1.0 : uprear uptear
+1.0 : snipping sniping
+0.85 : hake make
+1.0 : brios broos
+1.0 : spiring spurring
+1.0 : coed coted
+1.0 : coed chored
+0.83 : coed doted
+0.85 : farrow farls
+0.89 : farrow faros
+0.89 : south wroth
+1.0 : south soth
+1.0 : lipoid lipid
+0.87 : nags jags
+1.0 : bier biter
+1.0 : pepping peeping
+1.0 : pepping prepping
+1.0 : copied coopted
+1.0 : copied chopped
+1.0 : copied copped
+1.0 : copied coped
+1.0 : woomera womera
+1.0 : sash trio
+0.9 : glady toady
+1.0 : assets asserts
+1.0 : pavior paviour
+0.81 : garter tarter
+1.0 : dure gout
+0.81 : dure tot
+1.0 : pie pe
+1.0 : pie pye
+1.0 : pig uts
+0.83 : pix pis
+0.83 : pix pois
+1.0 : pip dad
+1.0 : pis pois
+1.0 : piu it
+1.0 : piu fa
+1.0 : piu tew
+0.85 : hating matting
+0.85 : hating mating
+1.0 : brevetted breveted
+1.0 : regrets regreets
+0.85 : founded rounded
+0.81 : humph humpy
+1.0 : withers writhers
+1.0 : tethers teethers
+0.81 : gaggers badgers
+0.81 : gaggers taggers
+1.0 : lunge lune
+0.89 : quirting airing
+0.81 : gats bats
+0.81 : gats tats
+0.81 : righting fighting
+0.81 : gate bate
+0.81 : gate tate
+1.0 : mouths moths
+1.0 : mouthy mothy
+1.0 : golds golfs
+0.81 : golds tools
+1.0 : roue roe
+0.85 : roue foe
+0.85 : roue fore
+0.85 : hanger manger
+1.0 : plating platting
+0.85 : hanged maned
+1.0 : baals balls
+0.81 : baals galls
+0.81 : baals gals
+1.0 : sheikdom sheikhdom
+1.0 : verts vets
+0.81 : rag rat
+0.87 : ran raj
+0.87 : ran tsk
+0.85 : ram rah
+1.0 : raj tsk
+0.85 : rah ray
+1.0 : curie currie
+1.0 : curie curite
+0.81 : faddism faddish
+1.0 : ricocheted ricochetted
+0.89 : kaka owls
+1.0 : wadmaals wadmals
+0.83 : doated coated
+0.81 : gaged badged
+0.81 : gaged tagged
+0.8 : aback abaci
+1.0 : binge bine
+0.81 : blower glower
+1.0 : feuar grist
+0.83 : coiled doiled
+1.0 : trip trop
+0.87 : trip sau
+0.81 : rill fill
+1.0 : tit eyre
+1.0 : tip tup
+1.0 : tip aah
+1.0 : tip ah
+1.0 : tip top
+0.87 : tis yore
+1.0 : tis tuis
+1.0 : tenches trenches
+1.0 : longer loner
+0.81 : gasking basking
+0.81 : gasking baking
+0.81 : gasking taking
+0.81 : gasking tasking
+1.0 : sheikdoms sheikhdoms
+1.0 : cashier cahier
+0.85 : gid gie
+1.0 : dialer dialler
+1.0 : steppers steepers
+0.9 : spur quote
+0.85 : hacked yacked
+0.81 : gala balsa
+0.8 : plastid plastic
+0.81 : ogreish ogreism
+0.89 : woos wow
+1.0 : woos wos
+0.85 : woos quiz
+1.0 : woof quid
+0.85 : woof quite
+0.87 : wood woe
+0.89 : wood ais
+1.0 : wriggliest wiggliest
+1.0 : dye fur
+1.0 : dye git
+0.85 : mairs hairs
+1.0 : roosed rosed
+1.0 : rooser roser
+1.0 : rooses roses
+0.85 : haws maws
+0.85 : haws yaws
+1.0 : inthralls inthrals
+0.8 : vocalise focalise
+0.81 : blow glow
+0.81 : blob glob
+0.81 : jiggly drabs
+1.0 : stope stupe
+0.87 : pewits laura
+1.0 : battik batik
+0.81 : fiddles riddles
+0.81 : fiddler riddler
+1.0 : petites pieties
+0.85 : fay yeti
+0.81 : fat fag
+0.89 : sons wons
+1.0 : fad yett
+1.0 : fad yet
+1.0 : brioches brooches
+0.85 : mallet haslet
+0.81 : shits whits
+1.0 : poetising peising
+1.0 : grouts grots
+0.83 : dopy choppy
+0.83 : dopy copy
+0.8 : dithers cithers
+1.0 : passes pases
+0.81 : gapers tapers
+0.87 : passel paseo
+0.9 : wipers speers
+1.0 : buff migg
+0.8 : hic hid
+0.81 : riddled fiddled
+0.81 : whop agio
+0.81 : whop shop
+0.8 : focally vocally
+1.0 : knout knot
+0.87 : witing siting
+1.0 : witing writing
+1.0 : marshalling marshaling
+0.81 : tamed gamed
+0.81 : tamer gamer
+0.81 : tames games
+1.0 : spirted spurted
+1.0 : spirted sported
+0.85 : harriers marriers
+0.85 : hatred mated
+1.0 : hatred hated
+0.81 : glooming blooming
+1.0 : cassavas casavas
+1.0 : casabas cassabas
+1.0 : pirn porn
+1.0 : odorful odourful
+0.8 : chapeaux chapeaus
+0.81 : trout reif
+0.81 : attire erupt
+0.81 : blets gleets
+1.0 : scrapper scrappier
+1.0 : gossiped gossipped
+0.9 : flaring roaring
+1.0 : garotes garrotes
+1.0 : hippiest hippest
+0.81 : flout flog
+0.81 : gaping taping
+0.87 : yore tuis
+1.0 : galley gallery
+0.81 : galled baled
+1.0 : kolkhozy kolhozy
+1.0 : measly mealy
+1.0 : taffias tafias
+1.0 : knouting knotting
+1.0 : suer surer
+0.85 : suer rooty
+1.0 : suer dirt
+1.0 : vier bort
+1.0 : vies vires
+1.0 : titers tiers
+0.87 : wilt silt
+0.87 : will sill
+0.87 : wild wile
+0.87 : wild auks
+0.85 : haling malling
+0.81 : whorl shorl
+0.81 : whore shoe
+0.81 : whore shore
+0.81 : whore shote
+0.81 : glared blared
+0.81 : galloons balloons
+0.87 : lead oread
+0.85 : mite mid
+1.0 : mite mire
+1.0 : misbiasing misbiassing
+0.81 : shipping whipping
+1.0 : copers choppers
+1.0 : copers copters
+0.83 : copers dopers
+1.0 : copers coppers
+1.0 : copers copiers
+1.0 : rotting rooting
+1.0 : rotting routing
+1.0 : sputter spotter
+1.0 : pooped poppied
+1.0 : pooped popped
+1.0 : touts toots
+0.81 : touts gouts
+1.0 : touts toits
+1.0 : touts tots
+1.0 : ardour ardor
+1.0 : preeing peeing
+1.0 : preeing pieing
+1.0 : mouth moth
+0.87 : singer weiner
+0.87 : singer wringer
+0.87 : singer winger
+0.87 : singed wringed
+0.8 : rich tofu
+0.81 : rice fice
+0.81 : cud cue
+0.81 : cud bout
+0.81 : cud bot
+0.81 : cud cure
+1.0 : victualling victualing
+1.0 : briner bringer
+1.0 : gadi gaddi
+0.81 : gads bads
+0.81 : gads tads
+1.0 : stanged staned
+0.81 : tame game
+0.81 : tams gams
+0.81 : tamp gamp
+0.81 : basified gasified
+1.0 : duet firry
+0.81 : tamely gamely
+0.81 : toots gouts
+1.0 : toots toits
+1.0 : toots tots
+0.81 : gown town
+0.85 : thro scam
+1.0 : excerpts excepts
+1.0 : instal install
+1.0 : tined tinged
+1.0 : tines tinges
+1.0 : setous serous
+0.89 : wolves solves
+1.0 : prisms purisms
+0.85 : marls harls
+0.85 : marls marrow
+0.81 : balsas galas
+0.81 : tortilla gorilla
+1.0 : titer tier
+1.0 : titer uppity
+1.0 : wirer wrier
+1.0 : wired wried
+1.0 : wired wited
+0.87 : wired sired
+1.0 : steamed streamed
+1.0 : steamer streamer
+1.0 : glamor glamour
+1.0 : pallette palette
+1.0 : choppers copters
+0.83 : choppers dopers
+1.0 : choppers coppers
+1.0 : choppers copiers
+1.0 : continents contingents
+0.89 : kotos kotow
+1.0 : rust tidy
+1.0 : dyed stews
+1.0 : kvases kvasses
+1.0 : squiring squirting
+1.0 : skites skies
+1.0 : skited skied
+0.85 : pash pay
+1.0 : pash pah
+0.85 : pash pam
+1.0 : pass pas
+0.81 : gouts toits
+0.81 : gouts tots
+0.85 : prior proof
+0.85 : prior prof
+1.0 : wools wolds
+0.89 : wools sols
+0.85 : rooty surer
+0.85 : rooty dirt
+1.0 : roots routs
+1.0 : weeds weds
+1.0 : piping pipping
+0.81 : gaiters baiters
+0.87 : self dript
+0.87 : self dropt
+0.87 : sels serow
+1.0 : virus virtus
+0.81 : barret garret
+0.81 : barred garred
+0.9 : toads glads
+0.81 : snobbism snobbish
+1.0 : bytes byres
+1.0 : flappier flapper
+1.0 : spiered speered
+1.0 : lass pewee
+0.85 : lash lay
+0.85 : lash lam
+1.0 : caged cadged
+1.0 : cages cadges
+1.0 : cager cadger
+0.8 : voe foe
+0.8 : voe fore
+1.0 : voe vote
+0.8 : von fon
+0.8 : von sub
+1.0 : yett yet
+1.0 : decolour decolor
+0.8 : soaked slaked
+1.0 : peeper peppier
+1.0 : peeper pepper
+1.0 : peeper kakas
+1.0 : peeped pepped
+1.0 : peeped prepped
+0.85 : chad dyad
+0.81 : chat houri
+1.0 : inserters insetters
+1.0 : toted toyed
+1.0 : toted tooted
+1.0 : toter toyer
+0.81 : toter goer
+1.0 : toter tooter
+1.0 : harbor harbour
+0.81 : whooping shopping
+1.0 : fewer greet
+1.0 : steamers streamers
+1.0 : binges bines
+0.8 : lock loci
+1.0 : paled palled
+1.0 : palet pallet
+0.81 : mute bys
+1.0 : teetotalled teetotaled
+1.0 : peppier pepper
+1.0 : peppier kakas
+1.0 : pothead pithead
+0.85 : jay pro
+0.81 : jab jagg
+1.0 : jab pork
+0.81 : jab puri
+0.81 : jab jag
+1.0 : litoral littoral
+0.81 : wherry sherry
+0.85 : hammy mammy
+1.0 : pottier puttier
+1.0 : pottier pitier
+1.0 : carburetted carbureted
+0.81 : babblers gabblers
+1.0 : sayyid sayid
+1.0 : cowing chowing
+1.0 : wee we
+1.0 : wed weed
+1.0 : wen ween
+1.0 : toyed tooted
+1.0 : wet tui
+1.0 : wet ti
+0.81 : toyer goer
+1.0 : toyer tooter
+1.0 : deadly deafly
+1.0 : carrotins carotins
+1.0 : lopped loped
+1.0 : lopped looped
+1.0 : roues rotes
+1.0 : scarting scarring
+1.0 : moron morion
+1.0 : powter pewter
+1.0 : spiled spoiled
+1.0 : laagers laggers
+1.0 : valor valour
+1.0 : fatting fating
+1.0 : snippers snipers
+0.8 : civvies divvies
+1.0 : swagging swaging
+1.0 : bicolors bicolours
+0.89 : trios trow
+1.0 : trios retia
+1.0 : lipoids lipids
+0.85 : away awash
+1.0 : shields shiels
+0.87 : hank hadji
+1.0 : endued endured
+1.0 : endues endures
+1.0 : shout shot
+0.81 : shout shog
+1.0 : born bourn
+1.0 : sleepier sleeper
+1.0 : peen preen
+1.0 : peer kas
+1.0 : peer pier
+0.85 : yammerers hammerers
+1.0 : poppied popped
+0.81 : cosh cosy
+0.89 : cosh cowy
+0.83 : cost dost
+0.83 : coss doss
+0.9 : oaks lakhs
+1.0 : privateer privater
+1.0 : ryes turd
+1.0 : equalling equaling
+0.81 : tangliest gangliest
+1.0 : noh mig
+0.83 : nod mix
+1.0 : nod mis
+0.81 : nog not
+0.81 : nog mir
+1.0 : not mir
+0.89 : sox quiz
+0.81 : rink fink
+1.0 : ring ruing
+0.89 : sores woes
+0.81 : bashing gashing
+1.0 : snout snot
+1.0 : pilus poilus
+0.8 : coccid coccic
+0.81 : glaze blaze
+1.0 : pyrogen pirogen
+0.87 : winks sinks
+1.0 : mouton motion
+0.85 : foam roam
+1.0 : typhus tophus
+1.0 : ama eke
+0.81 : garred tarred
+0.81 : shammed whammed
+1.0 : prying poring
+1.0 : wytes wyes
+0.81 : wheens sheens
+0.85 : founders rounders
+0.81 : gartered bartered
+1.0 : warty wary
+0.89 : aired quired
+1.0 : hires hies
+1.0 : hired hied
+1.0 : airer sort
+0.81 : tongs gongs
+0.87 : mels meow
+1.0 : ringers ruiners
+1.0 : quey query
+1.0 : zipper zippier
+1.0 : galoots galloots
+0.85 : smacker whacker
+0.83 : doyly coyly
+1.0 : lusted lustred
+0.81 : tofu dust
+1.0 : cheerio cheero
+1.0 : caroms carroms
+1.0 : clangor clangour
+1.0 : folks folds
+1.0 : palettes pallettes
+1.0 : rapers rapiers
+0.85 : farl faro
+0.85 : stour arid
+1.0 : armor armour
+1.0 : hoopers hoppers
+0.83 : coolies doolies
+1.0 : hooping hopping
+1.0 : hooping hoping
+1.0 : chasse chase
+1.0 : urd twa
+1.0 : urd yes
+0.81 : golfs tools
+1.0 : tend trend
+1.0 : coopted chopped
+1.0 : coopted copped
+1.0 : coopted coped
+1.0 : agraffe agrafe
+1.0 : vavassors vavasors
+1.0 : vavassors vavasours
+1.0 : party parry
+1.0 : gallivanted galivanted
+1.0 : tipple topple
+1.0 : floppier flopper
+0.81 : muds nitre
+1.0 : feting feuing
+1.0 : feting feeing
+0.87 : rioted fled
+0.87 : rioter fleer
+0.85 : rioter foyer
+0.81 : stag stab
+1.0 : rioters rooters
+0.87 : rioters fleers
+1.0 : whoops whops
+0.81 : whoops shops
+0.83 : colds dols
+0.83 : copters dopers
+1.0 : copters coppers
+1.0 : copters copiers
+0.8 : gabbroic gabbroid
+1.0 : wadders waders
+1.0 : getable gettable
+0.87 : weightless sightless
+1.0 : toits tots
+0.81 : garget target
+1.0 : mattins matins
+1.0 : nappier napper
+1.0 : nappies nappes
+1.0 : matting mating
+0.81 : whetting sheeting
+0.8 : cite for
+0.8 : cite dire
+1.0 : ting tying
+1.0 : tine tinge
+1.0 : challah chalah
+1.0 : yep two
+1.0 : yes twa
+1.0 : yew out
+0.81 : yew ba
+0.81 : yew ta
+1.0 : sapper sappier
+1.0 : ores oes
+1.0 : suba dims
+1.0 : suba fond
+1.0 : prettily pettily
+0.85 : marking harking
+1.0 : leafless leakless
+1.0 : stripping stropping
+0.81 : bauds gauds
+1.0 : making masking
+0.89 : requin fain
+1.0 : basked baked
+0.9 : oaten laten
+1.0 : shoes shores
+1.0 : shoes shotes
+1.0 : shoed shored
+0.81 : grout grog
+1.0 : grout grot
+0.81 : shews whews
+1.0 : streamier steamier
+1.0 : bobs viva
+0.85 : amie amid
+1.0 : waxier escort
+1.0 : beta betta
+1.0 : beth berth
+0.81 : takin gaskin
+1.0 : uta oud
+1.0 : excerpting excepting
+1.0 : peps preps
+1.0 : peps peeps
+0.87 : adjure clot
+0.87 : wienie sienite
+1.0 : sputters spotters
+0.87 : sights wrights
+0.85 : matchers hatchers
+1.0 : pitman potman
+1.0 : embrues embrutes
+1.0 : embrued embruted
+1.0 : abattoir abator
+0.81 : basifier gasifier
+0.85 : mazily hazily
+1.0 : casava cassava
+1.0 : tyes tyres
+0.83 : coming doming
+0.85 : hails mails
+1.0 : gulpier gulper
+0.87 : jabbed nabbed
+1.0 : tetters teeters
+1.0 : calipered callipered
+1.0 : garoted garroted
+0.81 : ganging banging
+0.81 : ganging tanging
+1.0 : tass tas
+0.85 : marrying harrying
+1.0 : cue bout
+1.0 : cue bot
+1.0 : cue cure
+1.0 : cub vim
+1.0 : cum vin
+1.0 : carers careers
+1.0 : gallops galops
+0.81 : jagg pork
+0.87 : jagg leu
+1.0 : jagg puri
+1.0 : jagg jag
+1.0 : elds elks
+0.87 : elds ripe
+1.0 : elds els
+0.87 : elds rope
+1.0 : patroon patron
+1.0 : cordate chordate
+1.0 : beths berths
+1.0 : autotypies autotypes
+1.0 : potties putties
+1.0 : potties pities
+1.0 : popping pooping
+1.0 : moiety motey
+0.85 : foams roams
+1.0 : shirring shirting
+0.81 : shirring whirring
+1.0 : cashiers cahiers
+0.83 : domical comical
+0.85 : squid squire
+1.0 : shinney shinnery
+1.0 : biassed biased
+0.81 : jag pork
+0.87 : jag leu
+1.0 : jag puri
+1.0 : prates pirates
+1.0 : werewolf werwolf
+1.0 : tenors tenours
+1.0 : abatises abattises
+0.83 : dowse chowse
+1.0 : orang ourang
+0.87 : ales quotes
+1.0 : alee aglee
+0.8 : laid laic
+1.0 : moutons motions
+1.0 : chassed chased
+0.8 : plasmic plasmid
+0.85 : hatch match
+1.0 : peachiest preachiest
+0.83 : colors dolours
+1.0 : spits spots
+1.0 : curries curies
+1.0 : monkey monkery
+1.0 : proposed purposed
+1.0 : ensure ensue
+1.0 : kiting kitting
+0.85 : aahs sure
+0.81 : aahs toph
+1.0 : aahs typy
+1.0 : aahs riot
+1.0 : suppers supers
+1.0 : pore pure
+0.81 : bales gales
+0.87 : scan thrip
+0.9 : roared flared
+0.81 : scab scag
+1.0 : clangoring clangouring
+1.0 : cooeeing cooeying
+1.0 : sportier spurrier
+1.0 : yup too
+1.0 : yup to
+1.0 : yup yip
+1.0 : yup wry
+1.0 : spiralled spiraled
+1.0 : sloppier sloper
+0.85 : sure typy
+0.85 : sure riot
+1.0 : sura sutra
+1.0 : mom bib
+0.81 : babbling gabbling
+0.83 : codders dodders
+0.81 : mog mot
+1.0 : flued fluted
+0.87 : mod mote
+1.0 : mod bis
+0.9 : tipsy flat
+1.0 : nappe nappie
+1.0 : sabering sabeing
+0.87 : rooters fleers
+0.85 : roe foe
+0.85 : roe fore
+0.85 : haar maar
+0.85 : haaf key
+0.85 : haaf yaff
+1.0 : brier bruiter
+0.83 : dotters cotters
+0.81 : flat flag
+0.81 : mirk miri
+0.85 : mire mid
+0.81 : flag flab
+1.0 : miry buret
+0.9 : flam roam
+0.9 : flan roan
+1.0 : metopic meropic
+0.87 : jailers nailers
+0.81 : short whort
+1.0 : shore shoe
+1.0 : shore shote
+0.81 : tapper gappier
+1.0 : bout bot
+1.0 : bout cure
+1.0 : weight wright
+1.0 : weight wight
+1.0 : sagger sager
+0.81 : pork puri
+1.0 : rifle riffle
+1.0 : amass amas
+0.85 : foamer roamer
+1.0 : garoting garotting
+1.0 : garoting garroting
+1.0 : garoting garrotting
+1.0 : stumper stumpier
+0.81 : goer tooter
+1.0 : cote core
+0.83 : cote doe
+1.0 : aal wop
+1.0 : sweet derry
+0.81 : dudes etudes
+1.0 : stooking stoking
+1.0 : steeper stepper
+0.81 : gang bang
+0.81 : gane bane
+1.0 : requite require
+0.81 : duct eruct
+0.8 : duci duck
+1.0 : wrist wist
+1.0 : our ha
+1.0 : our pit
+0.85 : our ya
+0.81 : out ba
+0.81 : out ta
+1.0 : biting bitting
+0.81 : potto hat
+1.0 : wagging waging
+1.0 : potty ort
+1.0 : ringed ruined
+1.0 : succour succor
+0.85 : rooster foster
+1.0 : bumpier bumper
+0.87 : elks ripe
+1.0 : elks els
+0.87 : elks rope
+0.83 : cowrie dowie
+1.0 : faggot fagot
+1.0 : cottons coitions
+1.0 : peened preened
+1.0 : preachier peachier
+1.0 : agly ally
+1.0 : writings wittings
+0.87 : writings sittings
+0.87 : delf detour
+1.0 : currie curite
+0.83 : dors coirs
+1.0 : dorr siree
+0.83 : dorm corm
+0.81 : blade glade
+1.0 : cheetah chetah
+1.0 : padle pale
+1.0 : shores shotes
+1.0 : myopies myopes
+1.0 : flues flutes
+1.0 : alert aglet
+0.81 : bates gates
+0.8 : rabid rabic
+0.85 : wash way
+1.0 : touting tooting
+1.0 : touting toting
+1.0 : touting toiting
+0.89 : airts quirts
+0.87 : nagged jagged
+0.87 : nagger jagger
+0.87 : doit ropy
+0.81 : doit dog
+0.83 : doit cot
+1.0 : loopiest loppiest
+1.0 : rubus timid
+1.0 : coppras copras
+1.0 : trenails tenails
+1.0 : tops tips
+0.81 : toph typy
+0.81 : toph riot
+1.0 : tope type
+1.0 : ewer try
+1.0 : ewer sad
+0.85 : fou tipi
+0.85 : fou topi
+1.0 : for dire
+0.85 : for did
+0.85 : for agha
+1.0 : foe fore
+0.8 : foe vote
+0.89 : sots wots
+1.0 : fon sub
+0.83 : mooch moody
+0.83 : dollars collars
+1.0 : spored spired
+1.0 : spores spires
+1.0 : caromed carromed
+1.0 : trod reis
+0.87 : trop sau
+1.0 : garroting garotting
+1.0 : garroting garrotting
+1.0 : waggons wagons
+1.0 : tutee yirr
+1.0 : potted pitted
+1.0 : stiver stuiver
+1.0 : winkle wrinkle
+1.0 : wringers wingers
+1.0 : wringers weiners
+0.87 : wringers singers
+1.0 : puttied pitied
+1.0 : puttier pitier
+1.0 : putties pities
+1.0 : dotiest dottiest
+0.81 : goers tooters
+0.85 : hammal mammal
+1.0 : rooting routing
+0.85 : parados paradox
+1.0 : worshippers worshipers
+0.81 : whorish shortish
+1.0 : tranships transships
+1.0 : tarring taring
+0.81 : gallon talon
+0.85 : mapping happing
+0.87 : silks wilds
+1.0 : statue stature
+1.0 : guar hist
+0.85 : mawkish hawkish
+0.85 : play plash
+1.0 : muted mured
+1.0 : mutes mures
+1.0 : pargeted pargetted
+0.81 : fire tour
+0.81 : fire tor
+1.0 : dotting doting
+1.0 : mott birr
+0.8 : focal vocal
+1.0 : regretting regreeting
+1.0 : bruit brit
+1.0 : bruin brin
+1.0 : drippings droppings
+1.0 : peaches preaches
+0.81 : talipots galipots
+0.81 : talipots gallipots
+0.89 : sorrier worrier
+1.0 : twine twinge
+0.85 : lei lek
+0.87 : lei pro
+0.87 : lek purl
+1.0 : succouring succoring
+1.0 : let leet
+0.87 : let pry
+0.87 : leu puri
+1.0 : tooting toting
+1.0 : tooting toiting
+0.81 : quackish quackism
+0.83 : docking cocking
+0.83 : docking chocking
+0.87 : allod aloe
+1.0 : allow aglow
+0.87 : wittings sittings
+0.85 : whaler smaller
+0.81 : whaled shaled
+1.0 : uppity tier
+1.0 : tonged toned
+0.85 : reif says
+1.0 : kolhoz kolkhoz
+1.0 : moues mores
+1.0 : moues motes
+0.87 : ripe els
+1.0 : ripe rope
+0.87 : ripe dow
+0.89 : ripe eros
+1.0 : phi tae
+1.0 : acetous acerous
+1.0 : stagy staggy
+1.0 : booed booted
+1.0 : proette pirouette
+1.0 : eyra ruts
+0.8 : soaker slaker
+0.85 : hanse manse
+1.0 : pit ha
+0.85 : pit ya
+0.83 : dopers coppers
+0.83 : dopers copiers
+1.0 : anga elute
+0.81 : ridgling fiddling
+1.0 : chopped copped
+1.0 : chopped coped
+1.0 : chopper copier
+1.0 : chopper copper
+1.0 : chopper coper
+0.81 : blotting glouting
+0.83 : do xi
+0.87 : do rip
+1.0 : de lo
+1.0 : da pi
+1.0 : toes tores
+1.0 : toes totes
+1.0 : cop chop
+0.81 : cot cog
+1.0 : cow chow
+0.83 : cow dow
+0.89 : cow cos
+0.85 : cox cos
+0.83 : cog dog
+0.83 : col dol
+1.0 : con chon
+0.83 : con don
+0.87 : jays nays
+0.85 : jays pirog
+0.85 : jays prog
+0.83 : dozens cozens
+0.81 : tains gains
+1.0 : renal regnal
+1.0 : awed serf
+1.0 : gourmands gormands
+1.0 : faqir faquir
+1.0 : prepping peeping
+1.0 : writers wirers
+0.85 : hurray hurrah
+1.0 : glamors glamours
+0.83 : dowry cowy
+1.0 : darting daring
+0.87 : bole bold
+1.0 : hoops hops
+0.9 : spy quoit
+0.8 : bandeaus bandeaux
+1.0 : untied untired
+0.81 : gaper taper
+1.0 : fires gourd
+0.87 : wimples simples
+1.0 : carousel carrousel
+1.0 : wingers weiners
+0.87 : wingers singers
+0.81 : bagman gagman
+1.0 : pedate predate
+1.0 : berretta beretta
+0.8 : focalizing vocalizing
+0.87 : willies sillies
+0.83 : chon don
+0.83 : chow dow
+0.89 : chow cos
+0.85 : hire hid
+1.0 : hire hie
+0.81 : garrons baryons
+1.0 : kiters kiers
+0.81 : gloomiest bloomiest
+1.0 : fa it
+1.0 : fa tew
+1.0 : maffia mafia
+1.0 : labours labors
+0.83 : dousers chousers
+0.81 : taunter gaunter
+1.0 : dirt surer
+0.85 : dire did
+0.85 : dire agha
+1.0 : bask jeep
+1.0 : scouts scots
+1.0 : prettiness pettiness
+1.0 : carrousels carousels
+0.89 : wot air
+0.89 : wow wos
+0.85 : wos quiz
+0.89 : woo so
+0.89 : woe sore
+1.0 : dims fond
+0.85 : smacked whacked
+0.87 : willer siller
+0.81 : whoring shoring
+1.0 : mores motes
+0.81 : dandyism dandyish
+1.0 : deleting deleing
+1.0 : khalifs kalifs
+1.0 : coddling codling
+1.0 : snoutier snottier
+0.81 : gabbed tabbed
+1.0 : poetise peise
+0.87 : jails nails
+0.85 : hashes mashes
+1.0 : peening preening
+0.83 : modi mock
+0.87 : wick sick
+1.0 : spurt sport
+0.9 : spurt quoter
+1.0 : wagoners waggoners
+1.0 : parlors parlours
+1.0 : preach peach
+1.0 : burying burring
+1.0 : uptears uprears
+0.87 : sole sold
+1.0 : logotypes logotypies
+0.87 : singlets winglets
+1.0 : galipots gallipots
+1.0 : shirtings shirrings
+0.85 : jins jinx
+1.0 : hi jo
+0.85 : ha ya
+1.0 : isotypic isotopic
+0.81 : shirting whirring
+1.0 : mopper moper
+1.0 : spurted sported
+1.0 : typy riot
+1.0 : prerequisite perquisite
+0.81 : galas talas
+1.0 : cassettes casettes
+0.81 : fields riels
+1.0 : feuing feeing
+0.85 : roils foils
+0.83 : cooly dooly
+1.0 : sourdine sordine
+0.81 : ducts eructs
+1.0 : sporoid spiroid
+0.8 : fore vote
+0.8 : ford cites
+1.0 : ford dies
+1.0 : arbour arbor
+0.8 : fort citer
+1.0 : wried wited
+0.87 : wried sired
+1.0 : wries wites
+0.87 : wries sires
+1.0 : wries wires
+1.0 : gibbetted gibbeted
+0.83 : corers doters
+0.85 : purl pro
+0.83 : cowered dowered
+0.81 : grog grot
+1.0 : agio shop
+1.0 : preaching peaching
+1.0 : parring parting
+0.81 : tallied gallied
+1.0 : reading readding
+0.8 : tux yid
+0.8 : tux rya
+1.0 : loped looped
+1.0 : tup aah
+1.0 : tup ah
+1.0 : tup top
+1.0 : tui ti
+1.0 : loper looper
+1.0 : loper loppier
+1.0 : tug adz
+0.87 : singers weiners
+1.0 : tumour tumor
+1.0 : steeped stepped
+0.85 : moire bids
+1.0 : repps reps
+0.8 : croci crock
+0.81 : brandy branch
+0.81 : talks galls
+0.81 : talks gals
+0.8 : talks taos
+1.0 : stood arris
+1.0 : milks mils
+1.0 : dee loo
+1.0 : cocking chocking
+1.0 : whopper whooper
+1.0 : whopped whooped
+0.81 : ricin ficin
+1.0 : harboring harbouring
+1.0 : waged wagged
+1.0 : wager wagger
+1.0 : makers maskers
+1.0 : comps chomps
+0.81 : gates tates
+1.0 : fur git
+0.81 : irises krises
+1.0 : fug ars
+0.85 : hated mated
+0.85 : hater mater
+1.0 : diopters dippers
+0.81 : etui goop
+1.0 : putting potting
+1.0 : putting pitting
+1.0 : putting pitying
+1.0 : choppy copy
+1.0 : chomp comp
+1.0 : stalks stalls
+1.0 : quippus quipus
+1.0 : prog pirog
+1.0 : staling stalling
+0.87 : winners sinners
+0.81 : frag frat
+0.87 : widdle sidle
+0.81 : bleed gleed
+1.0 : initialed initialled
+0.81 : gore toe
+0.81 : gore tote
+0.87 : gore god
+0.81 : ganisters banisters
+0.89 : quirted airted
+0.85 : bray brash
+0.87 : sillers willers
+1.0 : rationing ratooning
+0.83 : collies dollies
+0.81 : glowfly blowfly
+1.0 : flavoury flavory
+0.89 : ait quit
+0.87 : ais sore
+0.81 : shining whining
+0.85 : robbing fobbing
+0.85 : dither either
+0.81 : whips ships
+1.0 : pier kas
+1.0 : testoon teston
+1.0 : lackeying lackering
+1.0 : torque toque
+1.0 : treats teats
+0.81 : gods tods
+1.0 : shote shoe
+1.0 : shots shouts
+0.81 : ruins duma
+0.81 : gleeds bleeds
+1.0 : schlep schlepp
+0.81 : wha tour
+0.81 : wha tor
+0.83 : cord sires
+0.83 : core doe
+0.83 : corf sired
+1.0 : no mi
+0.87 : na ore
+0.89 : sords words
+1.0 : choral coral
+0.81 : posh posy
+1.0 : gropers gripers
+0.89 : wrongs songs
+1.0 : skirring skirting
+0.81 : wat wag
+0.87 : ana eld
+0.87 : pry leet
+0.81 : bather gather
+1.0 : netts nets
+0.85 : mauler hauler
+0.85 : robbed fobbed
+0.87 : wites sires
+1.0 : wites wires
+0.87 : witen siren
+1.0 : devoir devour
+1.0 : arose ariose
+0.81 : clog clot
+1.0 : wader wadder
+1.0 : tores totes
+1.0 : insetted inserted
+1.0 : insetter inserter
+1.0 : vassal vasal
+0.85 : hatching matching
+0.87 : porgy left
+1.0 : tew it
+0.87 : naggers jaggers
+0.85 : hammering mammering
+0.81 : blaring glaring
+0.81 : judas loiter
+1.0 : bicolor bicolour
+0.81 : dub ton
+0.81 : dub rim
+1.0 : pe pye
+0.9 : flamer roamer
+1.0 : neurons neutrons
+0.83 : cobber dobber
+1.0 : ratoon ratton
+1.0 : tends trends
+0.81 : sag sab
+0.81 : sag sat
+0.85 : maziest haziest
+1.0 : sad try
+1.0 : teth teeth
+1.0 : sexy hump
+1.0 : use yaw
+0.81 : galls balls
+1.0 : galls gals
+0.81 : gally bally
+0.81 : gally badly
+0.81 : gally tally
+1.0 : blurting blurring
+1.0 : beclothes bedclothes
+1.0 : bras brass
+1.0 : stipple stopple
+0.9 : spue alls
+1.0 : armouring armoring
+0.87 : wimple simple
+0.81 : whorls shorls
+1.0 : pottering puttering
+1.0 : chirper chirpier
+0.8 : diploid diploic
+0.8 : slap soap
+1.0 : wadmaal wadmal
+0.85 : bid bite
+0.85 : bid mor
+1.0 : chafers chaffers
+1.0 : toled tooled
+1.0 : jura kits
+0.85 : matless hatless
+1.0 : snippier snipper
+1.0 : snippier sniper
+0.87 : sings wings
+1.0 : bite mor
+1.0 : courantoes corantoes
+1.0 : ratting rating
+1.0 : alley agley
+1.0 : rosing roosing
+1.0 : peacher preacher
+0.81 : riddle fiddle
+1.0 : nit byre
+1.0 : nit bye
+1.0 : stupes stipes
+1.0 : biases biasses
+1.0 : sloped slopped
+0.8 : torrid toric
+1.0 : to too
+1.0 : to yip
+1.0 : to wry
+1.0 : tour tor
+0.85 : tour rid
+1.0 : sherbet sherbert
+0.81 : tag tab
+0.81 : tag tat
+0.81 : scag scat
+1.0 : proof prof
+1.0 : alodium allodium
+0.81 : ganglier tanglier
+1.0 : aah ah
+1.0 : aah top
+1.0 : grooves groves
+1.0 : cry nip
+0.81 : bangers gangers
+1.0 : pals palls
+1.0 : pall pal
+1.0 : bot cure
+0.81 : gartering bartering
+1.0 : teated treated
+1.0 : boned bonged
+1.0 : ringer ruiner
+1.0 : typographies topographies
+1.0 : spurry sporty
+1.0 : spurry spry
+1.0 : brasier brassier
+1.0 : basking baking
+1.0 : unmakers unmaskers
+0.89 : amia snow
+1.0 : finales finagles
+1.0 : site sire
+0.87 : site write
+1.0 : site dor
+0.83 : site choir
+0.87 : site wire
+0.87 : sits writs
+1.0 : otoscopies otoscopes
+0.81 : dab dag
+0.81 : gales tales
+0.9 : sped wiped
+1.0 : sped spied
+0.85 : whack smack
+0.81 : whack shack
+1.0 : imbrued imbruted
+1.0 : imbrues imbrutes
+1.0 : spicery spicey
+1.0 : garotting garrotting
+1.0 : savors savours
+1.0 : savory savoury
+0.83 : dozening cozening
+1.0 : morass moras
+1.0 : topi tipi
+0.8 : fluoric fluorid
+1.0 : stripier striper
+1.0 : steps streps
+0.81 : wag wab
+1.0 : warring waring
+0.89 : soth wroth
+1.0 : dropt dript
+1.0 : subpenaing subpoenaing
+1.0 : topic typic
+1.0 : yid rya
+1.0 : yip too
+1.0 : yip wry
+1.0 : holds holks
+0.85 : happy yappy
+0.81 : slat slag
+0.81 : slag slab
+1.0 : typically topically
+0.9 : sport quoter
+1.0 : garotte garrotte
+1.0 : iglu rage
+1.0 : commander commandeer
+1.0 : bhuts buts
+1.0 : seine serine
+0.81 : wheal sheal
+0.89 : airest wordy
+1.0 : copier copper
+1.0 : copier coper
+1.0 : copies copes
+0.81 : log lot
+1.0 : lop deer
+0.83 : coolie doolie
+0.81 : peat peag
+1.0 : assert asset
+1.0 : algas alas
+1.0 : khat kat
+1.0 : peeing pieing
+1.0 : algae alae
+0.85 : kay peri
+0.8 : humic humid
+1.0 : retuse reuse
+0.87 : rope els
+0.87 : rope dow
+0.89 : rope eros
+0.83 : dourine chorine
+1.0 : weiner wringer
+1.0 : weiner winger
+0.87 : sirra wirra
+0.85 : mazy hazy
+1.0 : preps peeps
+1.0 : rigor rigour
+1.0 : kakas pepper
+1.0 : wringer winger
+1.0 : dry set
+1.0 : soldan solan
+0.81 : gorillas tortillas
+0.87 : side wide
+1.0 : typology topology
+1.0 : kier kiter
+1.0 : dor sire
+0.87 : dor write
+0.83 : dor choir
+0.87 : dor wire
+0.89 : dos dow
+0.87 : dos eros
+0.83 : dos cos
+0.89 : sows wows
+1.0 : chorioids choroids
+1.0 : seers sers
+1.0 : cocks chocks
+0.8 : rouleaus rouleaux
+0.81 : bloomed gloomed
+1.0 : teopan trepan
+0.85 : make kept
+0.85 : quid quite
+0.8 : flambeaus flambeaux
+1.0 : rosters roosters
+1.0 : marshalled marshaled
+0.8 : mucid mucic
+0.81 : tatting gating
+1.0 : tabletted tableted
+0.81 : gout tot
+0.81 : gloomier bloomier
+1.0 : waited waired
+0.89 : trow retia
+1.0 : pitting potting
+1.0 : pitting pitying
+1.0 : orangery orangey
+0.81 : ritter fitter
+0.9 : wiped spied
+1.0 : wyte toy
+1.0 : ashed aahed
+0.81 : fist tody
+1.0 : copper coper
+1.0 : copped coped
+1.0 : ampule ampoule
+0.87 : wited sired
+0.8 : flux flus
+1.0 : pele kana
+0.85 : cram crash
+0.81 : wherries sherries
+1.0 : duped dupped
+0.87 : sivers wivers
+0.83 : mix mis
+0.81 : gaiting baiting
+1.0 : taking tasking
+1.0 : ah top
+1.0 : pepped prepped
+1.0 : topless tipless
+0.9 : oat lat
+0.9 : oar lar
+0.81 : kroons irons
+1.0 : story stoury
+1.0 : badly bally
+1.0 : vialing vialling
+0.85 : tor rid
+1.0 : ton rim
+1.0 : too wry
+1.0 : tom rib
+1.0 : toe tote
+1.0 : canalled canaled
+1.0 : inured injured
+0.87 : elf write
+0.87 : elf wire
+1.0 : gin arc
+0.9 : toad glad
+0.81 : monish monism
+0.83 : couches douches
+0.83 : couched douched
+1.0 : waggon wagon
+1.0 : sporty spry
+1.0 : vavasours vavasors
+0.85 : rounds founds
+0.83 : coziest doziest
+0.85 : hah yah
+0.8 : ciscos discos
+0.89 : wrongful songful
+0.87 : willy silly
+1.0 : fakeer faker
+1.0 : seepy sepoy
+1.0 : waddies wadies
+1.0 : chaffed chafed
+1.0 : chaffer chafer
+0.8 : dine cine
+0.87 : siting writing
+1.0 : sybo dump
+1.0 : automaton automation
+0.87 : bore vis
+0.81 : gypsyism gypsyish
+0.83 : donative conative
+0.85 : spoor spoof
+1.0 : dialed dialled
+1.0 : savouriest savoriest
+1.0 : looper loppier
+0.81 : whops shops
+1.0 : suras sutras
+0.89 : sour quite
+0.81 : bander gander
+1.0 : mismet mismeet
+0.87 : mote bis
+0.83 : conned donned
+0.8 : beaus beaux
+0.85 : haze maze
+1.0 : noo zee
+0.81 : right fight
+1.0 : gingalls gingals
+1.0 : betimes berimes
+1.0 : slatting slating
+1.0 : biers biters
+1.0 : coppers copiers
+0.81 : badge gage
+0.81 : banister ganister
+1.0 : reinjured retinued
+1.0 : rigors rigours
+0.83 : dove cove
+1.0 : toting toiting
+1.0 : paling palling
+1.0 : potting pitying
+1.0 : sax oil
+0.83 : cobra dobra
+1.0 : poops pops
+0.83 : chamoix chamois
+1.0 : wady waddy
+1.0 : recaps redcaps
+1.0 : generics genetics
+0.89 : wolvers solvers
+1.0 : stooled stoled
+0.81 : whammy shammy
+0.85 : mall hall
+1.0 : its pouf
+0.8 : toluic toluid
+1.0 : flavours flavors
+0.87 : sire write
+0.83 : sire choir
+0.87 : sire wire
+1.0 : reverted revetted
+1.0 : byre bye
+1.0 : bruiters briers
+1.0 : degasses degases
+0.81 : balls gals
+1.0 : wire write
+0.85 : trash tray
+0.85 : trash tram
+1.0 : khalif kalif
+0.81 : whist shist
+0.8 : cited died
+0.8 : cites dies
+0.81 : gaped taped
+0.81 : gapes tapes
+1.0 : subpenaed subpoenaed
+0.81 : lag lat
+0.81 : lag lab
+1.0 : wartier warier
+1.0 : tipping topping
+1.0 : qintar quintar
+1.0 : bogles boggles
+1.0 : hopping hoping
+0.81 : rile file
+1.0 : tippling toppling
+1.0 : kamseen khamseen
+0.89 : wolds sols
+1.0 : sweeper sweepier
+1.0 : typographic topographic
+0.85 : sulphid sulphite
+1.0 : snipped sniped
+1.0 : snipper sniper
+1.0 : sty art
+0.89 : aivers quivers
+0.8 : aboiteaus aboiteaux
+0.81 : drat drag
+0.81 : drag drab
+1.0 : somerseted somersetted
+0.85 : hid hie
+1.0 : ebonites ebonies
+1.0 : wright wight
+0.85 : yack hack
+1.0 : transhipped transshiped
+0.87 : mild mile
+0.81 : shot shog
+0.85 : dash dam
+0.85 : pay pah
+0.85 : pah pam
+0.8 : chloric chlorid
+0.87 : sires wires
+0.87 : scald scale
+0.87 : udo taj
+1.0 : udo tau
+1.0 : parries paries
+0.87 : fiddle dusks
+0.8 : peptic peptid
+1.0 : coted chored
+0.83 : coted doted
+1.0 : cotes chores
+1.0 : fetted feted
+0.87 : queer dotty
+0.85 : splash splay
+0.83 : chored doted
+0.89 : prow pros
+0.87 : tau taj
+0.81 : tar gar
+0.87 : tan taj
 ==============
-on the colemak layout
-   all too
-   all see
-   go we
-   send find
-   to so
-   to do
-   to we
-   to an
-   division decision
-   rise fire
-   rise real
-   rise read
-   word sort
-   word road
-   nor how
-   nor now
-   die ten
-   list loss
-   try say
-   cost sort
-   what pick
-   fine full
-   near hear
-   body city
-   full pull
-   leg you
-   here plan
-   here than
-   here deal
-   free wall
-   aid son
-   kid bed
-   love live
-   love give
-   love girl
-   win red
-   win and
-   win son
-   few god
-   few per
-   tell sell
-   sort wear
-   on in
-   on oh
-   on up
-   ride side
-   ride wide
-   ride with
-   work form
-   of is
-   of if
-   of or
-   sit top
-   sit set
-   six fix
-   six for
-   how now
-   hot hit
-   hot not
-   stop area
-   plane shall
-   short third
-   so we
-   so an
-   vary care
-   fix for
-   policy police
-   food foot
-   term hope
-   drop trip
-   side wide
-   side with
-   week seek
-   leave leach
-   god per
-   farm park
-   red and
-   red set
-   red son
-   she the
-   upon hand
-   reason season
-   base mrs.
-   care case
-   turn sure
-   size fire
-   size real
-   top dog
-   too see
-   that note
-   wide with
-   kind mind
-   and son
-   head note
-   head dead
-   sell well
-   note dead
-   sure very
-   shall three
-   serve reach
-   price prove
-   most bear
-   plan than
-   plan deal
-   cover river
-   fear wear
-   do we
-   do an
-   hit not
-   there these
-   art the
-   see add
-   we an
-   come some
-   whole while
-   basis basic
-   west with
-   west rest
-   firm down
-   firm form
-   firm town
-   firm wife
-   fire real
-   bill kill
-   as he
-   as at
-   as no
-   air for
-   will fill
-   is it
-   is if
-   it if
-   it oh
-   it up
-   hand land
-   no he
-   no at
-   rest with
-   yes yet
-   read wish
-   right fight
-   home time
-   per lot
-   be by
-   oh up
-   down town
-   form town
-   with wish
-   he at
-==============
+  0.0: 934963539
+  0.01: 867568
+  0.02: 402515
+  0.03: 254442
+  0.04: 182128
+  0.05: 137329
+  0.06: 110205
+  0.07: 89734
+  0.08: 75421
+  0.09: 63233
+  0.1: 53341
+  0.11: 46612
+  0.12: 40697
+  0.13: 34729
+  0.14: 33459
+  0.15: 27941
+  0.16: 23356
+  0.17: 21318
+  0.18: 21012
+  0.19: 19381
+  0.2: 15680
+  0.21: 15456
+  0.22: 18364
+  0.23: 11895
+  0.24: 11557
+  0.25: 11850
+  0.26: 8471
+  0.27: 9072
+  0.28: 10068
+  0.29: 10130
+  0.3: 4766
+  0.31: 4884
+  0.32: 5974
+  0.33: 8553
+  0.34: 3952
+  0.35: 5435
+  0.36: 5116
+  0.37: 4020
+  0.38: 5582
+  0.39: 2434
+  0.4: 3290
+  0.41: 4652
+  0.42: 3677
+  0.43: 11780
+  0.44: 7553
+  0.45: 695
+  0.46: 954
+  0.47: 1604
+  0.48: 1064
+  0.49: 1455
+  0.5: 1548
+  0.51: 1011
+  0.52: 816
+  0.53: 2389
+  0.54: 1452
+  0.55: 1132
+  0.56: 912
+  0.57: 1760
+  0.58: 1854
+  0.59: 1043
+  0.6: 1217
+  0.61: 599
+  0.62: 944
+  0.63: 1014
+  0.64: 996
+  0.65: 3323
+  0.66: 2051
+  0.67: 4878
+  0.68: 128
+  0.69: 220
+  0.7: 80
+  0.71: 410
+  0.72: 26
+  0.73: 23
+  0.74: 50
+  0.75: 597
+  0.76: 353
+  0.77: 33
+  0.78: 16
+  0.79: 45
+  0.8: 125
+  0.81: 868
+  0.83: 262
+  0.85: 545
+  0.87: 365
+  0.89: 145
+  0.9: 58
+  1.0: 2704

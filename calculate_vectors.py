@@ -20,8 +20,6 @@ with open('character_positions.pickle', 'rb') as handle:
 
 f = open(sys.argv[1])
 corpus = f.read().split('\n')
-# reordering by word length is helpful when comparing for ambiguity
-corpus.sort(key=len)
 
 
 # generate results
@@ -47,9 +45,9 @@ for layout_name, layout in character_positions.iteritems():
         if len(word) > 1:
 
             word_bigrams = split_bigrams(word)
-            results[layout_name][word] = []
+            steps = []
 
-            for bigram in word_bigrams:
+            for bigram_num, bigram in enumerate(word_bigrams):
 
                 # calculate vector for bigram
                 step = {
@@ -66,7 +64,24 @@ for layout_name, layout in character_positions.iteritems():
                     'direction': direction,
                     'magnitude': (step['dx'] ** 2 + step['dy'] ** 2) ** 0.5
                 })
-                results[layout_name][word].append(step)
+
+                steps.append(step)
+                    
+            # if two consecutive bigrams share direction, combine attributes
+            # combine into previous step may give efficiency gains
+            for step_num, step in enumerate(steps):
+                if step_num + 1 < len(steps):
+                    next_step = steps[step_num + 1]
+
+                    if next_step['direction'] == step['direction']:
+                        step['dx'] += next_step['dx']
+                        step['dy'] += next_step['dy']
+                        step['magnitude'] += next_step['magnitude']
+                        # the second bigram path is now incorporated in
+                        # the first's path, remove it
+                        steps.pop(step_num + 1)
+
+            results[layout_name][word] = steps
 
 for arg in sys.argv:
     if arg == "-s":

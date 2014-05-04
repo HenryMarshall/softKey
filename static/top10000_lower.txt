@@ -1373,7 +1373,6 @@ components
 comments
 defense
 true
-123
 useful
 attention
 secretary
@@ -1386,7 +1385,6 @@ maker
 intel
 contains
 task
-h
 normal
 story
 act
@@ -2100,7 +2098,7 @@ protest
 scheme
 afternoon
 serial
-1980s
+s
 involving
 partner
 declared
@@ -2625,7 +2623,7 @@ anonymity
 missiles
 persian
 creditors
-32bit
+bit
 jersey
 broadcast
 unions
@@ -3040,7 +3038,7 @@ cad
 frequency
 beam
 sees
-1970s
+s
 wilson
 kids
 encourage
@@ -3382,7 +3380,7 @@ cast
 asia
 instruction
 concerning
-16bit
+bit
 delegates
 categories
 manhattan
@@ -3598,7 +3596,7 @@ fda
 principle
 healthy
 depend
-1990s
+s
 restore
 assume
 modes
@@ -4057,7 +4055,7 @@ gary
 compliance
 nikkei
 shops
-3com
+com
 integrity
 edit
 outcome
@@ -4195,7 +4193,6 @@ steam
 stages
 local
 lay
-at&ts
 configurations
 yesterdays
 shouldnt
@@ -4321,7 +4318,7 @@ realized
 concrete
 resolved
 boosted
-3d
+d
 counter
 don
 larry
@@ -4356,7 +4353,7 @@ sister
 departure
 peoples
 pa
-1960s
+s
 dinner
 gulf
 mb
@@ -4482,7 +4479,7 @@ male
 harder
 separately
 andrew
-10year
+year
 renewed
 scanning
 singapore
@@ -4702,7 +4699,7 @@ coprocessor
 ranks
 fluid
 routing
-30year
+year
 layoffs
 egypt
 facts
@@ -4848,7 +4845,7 @@ email
 informed
 stream
 geneva
-db2
+db
 vietnamese
 trading
 receives
@@ -4883,7 +4880,7 @@ hole
 implications
 acted
 fremont
-386sx
+sx
 yorks
 smoking
 fourthquarter
@@ -5147,7 +5144,7 @@ uranium
 through
 subordinated
 tone
-8bit
+bit
 threw
 cattle
 arrival
@@ -5598,7 +5595,7 @@ participating
 philips
 tehran
 campaigns
-3d
+d
 ron
 passage
 bandwidth
@@ -5783,7 +5780,7 @@ remainder
 chase
 deciding
 moslems
-1st
+st
 propose
 yeltsin
 compares
@@ -5905,7 +5902,7 @@ root
 murphy
 declaration
 retrieve
-4th
+th
 pointing
 allocation
 fe
@@ -6095,7 +6092,7 @@ withdrew
 cm
 rome
 distinct
-2nd
+nd
 arkansas
 directions
 interior
@@ -6300,7 +6297,7 @@ volunteers
 stewart
 immigration
 interoperability
-1950s
+s
 birds
 rogers
 graham
@@ -6462,7 +6459,7 @@ pursuing
 rallied
 nazi
 guest
-3.5inch
+.inch
 regional
 ga
 liabilities
@@ -7019,7 +7016,7 @@ bullion
 peabody
 nominated
 eliminates
-3rd
+rd
 africas
 technically
 oliver
@@ -7106,7 +7103,7 @@ unsuccessful
 tubes
 praise
 shapes
-24bit
+bit
 brooklyn
 advertisers
 lessons
@@ -7519,7 +7516,7 @@ funny
 everyone
 for
 vermont
-49ers
+ers
 muscle
 commercially
 sponsors
@@ -7736,7 +7733,7 @@ boosting
 twodimensional
 expo
 classic
-20th
+th
 lighting
 crushed
 trustee
@@ -7912,7 +7909,7 @@ equals
 attacking
 troop
 bunch
-80s
+s
 prevents
 digitals
 coordination
@@ -7973,7 +7970,7 @@ pride
 lows
 psychological
 buyers
-80386based
+based
 envelope
 skill
 inspectors
@@ -8091,7 +8088,7 @@ infant
 lima
 marginal
 simmons
-24hour
+hour
 ind
 already
 oversee
@@ -8124,7 +8121,7 @@ midday
 classroom
 feds
 aircraft
-90s
+s
 trick
 saatchi
 ammunition
@@ -8451,7 +8448,7 @@ smoothly
 fortran
 sorry
 stockindex
-10th
+th
 task
 mystery
 norwegian
@@ -8465,7 +8462,7 @@ inside
 periodic
 humanitarian
 cheese
-60s
+s
 mrs
 revolt
 subtle
@@ -8597,7 +8594,7 @@ discovery
 filings
 ftse
 microvax
-30day
+day
 census
 anyone
 swimming
@@ -8702,7 +8699,7 @@ harbor
 followers
 mohammed
 adapt
-5.25inch
+.inch
 southeastern
 besides
 dmark
@@ -8718,7 +8715,7 @@ trap
 wordstar
 coefficients
 facto
-4gl
+gl
 desperate
 pope
 multiple
@@ -8828,7 +8825,7 @@ justification
 foster
 donaldson
 attracting
-70s
+s
 organisation
 spectacular
 booth
@@ -8864,7 +8861,7 @@ consisted
 extensively
 golden
 racing
-1930s
+s
 russians
 lithuanian
 outright
@@ -8902,7 +8899,7 @@ dangers
 barring
 grass
 concentrating
-19th
+th
 century
 exhaust
 geared
@@ -9063,7 +9060,7 @@ widened
 rdbms
 indefinitely
 get
-mid1980s
+mids
 cracking
 transitions
 sing
@@ -9246,7 +9243,7 @@ openly
 better
 demonstrating
 sensible
-os2
+os
 requesting
 actor
 kicked
@@ -9494,7 +9491,7 @@ billy
 shake
 ceramic
 weaknesses
-11th
+th
 exporting
 arising
 tankers
@@ -9868,7 +9865,7 @@ rtc
 surprises
 historically
 importantly
-31/2inch
+/inch
 visas
 banks
 hydrocarbons
