@@ -5,7 +5,8 @@
 
 ideas.txt
 
-layouts/
+human_layouts/
+computer_layouts/
 corpus/
 results/
 pickle/

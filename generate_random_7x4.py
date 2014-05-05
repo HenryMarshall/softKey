@@ -1,6 +1,7 @@
 import sys
 import calc_char_positions
 import pickle
+import time
 from random import shuffle
 
 # generates 7 x 4
@@ -26,7 +27,8 @@ for i in range(int(sys.argv[1])):
     random_layouts_computer[i] = computer_readable
 
 # store layouts in pickle
-with open('layouts/random_layouts_human.pickle', 'wb') as handle:
+file_name = "%i_random.pickle" % time.time()
+with open('human_layouts/' + file_name, 'wb') as handle:
     pickle.dump(random_layouts_human, handle)
-with open('layouts/random_layouts_computer.pickle', 'wb') as handle:
+with open('computer_layouts/' + file_name, 'wb') as handle:
     pickle.dump(random_layouts_computer, handle)
