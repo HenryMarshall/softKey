@@ -1,21 +1,32 @@
-from random import shuffle
 import sys
+import calc_char_positions
+import pickle
+from random import shuffle
 
 # generates 7 x 4
 
 chars = "abcdefghijklmnopqrstuvwxyz.'"
 char_list = list(chars)
 
-random_layouts = {}
+random_layouts_human = {}
+random_layouts_computer = {}
 
 for i in range(int(sys.argv[1])):
-  shuffle(char_list)
-  layout = []
+    shuffle(char_list)
+    layout = []
 
-  for row_count in range(4):
-    row = char_list[row_count*7:row_count*7+7]
-    layout.append(row)
+    # todo: change jump amount, improve readability of selector
+    for row_count in range(4):
+        row = char_list[row_count*7:row_count*7+7]
+        layout.append(row)
 
-  random_layouts[i] = layout
+    random_layouts_human[i] = layout
 
-print random_layouts
+    computer_readable = calc_char_positions.human_layout_to_computer(layout)
+    random_layouts_computer[i] = computer_readable
+
+# store layouts in pickle
+with open('layouts/random_layouts_human.pickle', 'wb') as handle:
+    pickle.dump(random_layouts_human, handle)
+with open('layouts/random_layouts_computer.pickle', 'wb') as handle:
+    pickle.dump(random_layouts_computer, handle)
