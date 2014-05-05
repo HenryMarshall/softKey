@@ -19,6 +19,16 @@ corpus = parser.parse_args()
 with open('layouts/random_layouts_computer.pickle', 'rb') as handle:
     layouts = pickle.load(handle)
 
+# we will write the results to a csv file
+ghetto_csv = open("results/layout_results.csv", "w")
+# create label row
+label_lst = ["layout"]
+for i in range(101):
+    label_lst.append(str(i/100.0))
+    label_str = ",".join(label_lst)
+ghetto_csv.write(label_str)
+ghetto_csv.write("\n")
+
 # calculate the vector path for each word on each layout
 paths = {}
 for layout_name, layout in layouts.iteritems():
@@ -28,30 +38,15 @@ for layout_name, layout in layouts.iteritems():
         word_vector = calc_vectors.calc_word_vector(word, layout)
         paths[layout_name][word] = word_vector
 
-# calculate the ambiguity of the corpus on each layout
-layout_results = {}
+# calculate and save the ambiguity of the corpus on each layout
 for layout_name, layout_paths in paths.iteritems():
     ambiguity_results = calc_scores.calc_layout_results(layout_paths)
-    layout_results[layout_name] = ambiguity_results
-
-
-# write the results to a csv file
-ghetto_csv = open("results/layout_results.csv", "w")
-
-# write labels
-label_lst = ["layout"]
-for i in range(101):
-    label_lst.append(str(i/100.0))
-    label_str = ",".join(label_lst)
-ghetto_csv.write(label_str)
-ghetto_csv.write("\n")
-
-# write data
-for layout, row in layout_results.iteritems():
-    sorted_layout_results = [str(layout)]
-    for ambiguity_count in range(101):
-        sorted_layout_results.append(str(row[ambiguity_count/100.0]))
-        string_results = ",".join(sorted_layout_results)
-    ghetto_csv.write(string_results)
+    results_lst = [str(layout_name)]
+    for i in range(101):
+        ambiguity_count = str(ambiguity_results[i/100.0])
+        results_lst.append(ambiguity_count)
+    results_str = ",".join(results_lst)
+    ghetto_csv.write(results_str)
     ghetto_csv.write("\n")
+
 ghetto_csv.close()
